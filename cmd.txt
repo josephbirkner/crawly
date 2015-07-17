@@ -1,0 +1,1 @@
+scrapy crawl -L INFO crawly -o items.csv -t csv

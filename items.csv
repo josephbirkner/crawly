@@ -1,0 +1,783 @@
+url,name,description
+http://www.pythonware.com/daily/,eff-bot's Daily Python URL,"- Contains links to assorted resources from the Python universe, compiled by PythonWare."
+http://www.oinko.net/freepython/,Free Python and Zope Hosting Directory,"- A directory of free Python and Zope hosting providers, with reviews and ratings."
+http://oreilly.com/python/,O'Reilly Python Center,"- Features Python books, resources, news and articles."
+https://www.python.org/dev/,Python Developer's Guide,"- Resources for reporting bugs, accessing the Python source tree with CVS and taking part in the development of Python."
+http://win32com.goermezer.de/,Social Bug,"- Scripts, examples and news about Python programming for the Windows platform."
+"http://www.pearsonhighered.com/educator/academic/product/0,,0130260363,00%2Ben-USS_01DBC.html",Core Python Programming,"- By Wesley J. Chun; Prentice Hall PTR, 2001, ISBN 0130260363. For experienced developers to improve extant skills; professional level examples. Starts by introducing syntax, objects, error handling, functions, classes, built-ins. [Prentice Hall]"
+http://www.brpreiss.com/books/opus7/html/book.html,Data Structures and Algorithms with Object-Oriented Design Patterns in Python,"- The primary goal of this book is to promote object-oriented design using Python and to illustrate the use of the emerging object-oriented design patterns."
+http://www.diveintopython.net/,Dive Into Python 3,"- By Mark Pilgrim, Guide to Python 3  and its differences from Python 2. Each chapter starts with a real code sample and explains it fully. Has a comprehensive appendix of all the syntactic and semantic changes in Python 3"
+http://rhodesmill.org/brandon/2011/foundations-of-python-network-programming/,Foundations of Python Network Programming,"- This book covers a wide range of topics. From raw TCP and UDP to encryption with TSL, and then to HTTP, SMTP, POP, IMAP, and ssh. It gives you a good understanding of each field and how to do everything on the network with Python."
+http://www.techbooksforfree.com/perlpython.shtml,Free Python books,"- Free Python books and tutorials."
+http://www.freetechbooks.com/python-f6.html,FreeTechBooks: Python Scripting Language,"- Annotated list of free online books on Python scripting language. Topics range from beginner to advanced."
+http://greenteapress.com/thinkpython/,How to Think Like a Computer Scientist: Learning with Python,"- By Allen B. Downey, Jeffrey Elkner, Chris Meyers; Green Tea Press, 2002, ISBN 0971677506. Teaches general principles of programming, via Python as subject language. Thorough, in-depth approach to many basic and intermediate programming topics. Full text online and downloads: HTML, PDF, PS, LaTeX. [Free, Green Tea Press]"
+http://www.network-theory.co.uk/python/intro/,An Introduction to Python,"- By Guido van Rossum, Fred L. Drake, Jr.; Network Theory Ltd., 2003, ISBN 0954161769. Printed edition of official tutorial, for v2.x, from Python.org. [Network Theory, online]"
+http://www.freenetpages.co.uk/hp/alan.gauld/,Learn to Program Using Python,"- Book by Alan Gauld with full text online. Introduction for those learning programming basics: terminology, concepts, methods to write code. Assumes no prior knowledge but basic computer skills."
+http://www.wiley.com/WileyCDA/WileyTitle/productCd-0471219754.html,Making Use of Python,"- By Rashi Gupta; John Wiley and Sons, 2002, ISBN 0471219754. Covers language basics, use for CGI scripting, GUI development, network programming; shows why it is one of more sophisticated of popular scripting languages. [Wiley]"
+http://hetland.org/writing/practical-python/,Practical Python,"- By Magnus Lie Hetland; Apress LP, 2002, ISBN 1590590066. Readable guide to ideas most vital to new users, from basics common to high level languages, to more specific aspects, to a series of 10 ever more complex programs. [Apress]"
+http://sysadminpy.com/,Pro Python System Administration,"- By Rytis Sileika, ISBN13: 978-1-4302-2605-5, Uses real-world system administration examples like manage devices with SNMP and SOAP, build a distributed monitoring system, manage web applications and parse complex log files, monitor and manage MySQL databases."
+http://www.qtrac.eu/py3book.html,Programming in Python 3 (Second Edition),"- A Complete Introduction to the Python 3."
+http://www.wiley.com/WileyCDA/WileyTitle/productCd-0764548077.html,Python 2.1 Bible,"- By Dave Brueck, Stephen Tanner; John Wiley and Sons, 2001, ISBN 0764548077. Full coverage, clear explanations, hands-on examples, full language reference; shows step by step how to use components, assemble them, form full-featured programs. [John Wiley and Sons]"
+https://www.packtpub.com/python-3-object-oriented-programming/book,Python 3 Object Oriented Programming,"- A step-by-step tutorial for OOP in Python 3, including discussion and examples of abstraction, encapsulation, information hiding, and raise, handle, define, and manipulate exceptions."
+http://www.network-theory.co.uk/python/language/,Python Language Reference Manual,"- By Guido van Rossum, Fred L. Drake, Jr.; Network Theory Ltd., 2003, ISBN 0954161785. Printed edition of official language reference, for v2.x, from Python.org, describes syntax, built-in datatypes. [Network Theory, online]"
+"http://www.pearsonhighered.com/educator/academic/product/0,,0130409561,00%2Ben-USS_01DBC.html",Python Programming Patterns,"- By Thomas W. Christopher; Prentice Hall PTR, 2002, ISBN 0130409561. Shows how to write large programs, introduces powerful design patterns that deliver high levels of robustness, scalability, reuse."
+http://www.informit.com/store/product.aspx?isbn=0201616165&redir=1,Python Programming with the Java Class Libraries: A Tutorial for Building Web and Enterprise Applications with Jython,"- By Richard Hightower; Addison-Wesley, 2002, 0201616165. Begins with Python basics, many exercises, interactive sessions. Shows programming novices concepts and practical methods. Shows programming experts Python's abilities and ways to interface with Java APIs. [publisher website]"
+"http://www.pearsonhighered.com/educator/academic/product/0,,0201748843,00%2Ben-USS_01DBC.html",Python: Visual QuickStart Guide,"- By Chris Fehily; Peachpit Press, 2002, ISBN 0201748843. Task-based, step-by-step visual reference guide, many screen shots, for courses in digital graphics; Web design, scripting, development; multimedia, page layout, office tools, operating systems. [Prentice Hall]"
+http://www.informit.com/store/product.aspx?isbn=0672317354,Sams Teach Yourself Python in 24 Hours,"- By Ivan Van Laningham; Sams Publishing, 2000, ISBN 0672317354. Split into 24 hands-on, 1 hour lessons; steps needed to learn topic: syntax, language features, OO design and programming, GUIs (Tkinter), system administration, CGI. [Sams Publishing]"
+http://gnosis.cx/TPiP/,Text Processing in Python,"- By David Mertz; Addison Wesley. Book in progress, full text, ASCII format. Asks for feedback. [author website, Gnosis Software, Inc.]"
+http://www.informit.com/store/product.aspx?isbn=0130211192,XML Processing with Python,"- By Sean McGrath; Prentice Hall PTR, 2000, ISBN 0130211192, has CD-ROM. Methods to build XML applications fast, Python tutorial, DOM and SAX, new Pyxie open source XML processing library. [Prentice Hall PTR]"
+url,name,description
+https://www.python.org/,Python,"- Official site for the interpreted, interactive, object-oriented, extensible programming language. Includes news, documentation, free downloads, and developer information."
+http://python.meetup.com/,Python Meetup Day,"- A free service that coordinates local Python developers meeting in person, every month on the second Thursday of the month."
+http://bigprof.com/,BigProf Software,"- Contains PHP and C source code and resources for programmers. Offers tools for free download."
+http://people.csail.mit.edu/phw/Books/,Books by Patrick Henry Winston and Friends,"- Patrick H. Winston, (co-)author of ""On To Java, Third Edition"", ""On To Smalltalk"", ""On To C++"", ""On To C"", Artificial Intelligence, and Lisp presents his book."
+http://cleancode.sourceforge.net/,CleanCode,"- Guidelines for good software design/web page design (and examples of what not to do!), plus open-source tools and libraries for developers, focussing on Java, Perl, Javascript, CGI, and XML."
+http://www.codetoad.com/,Code Toad,"- Resource index for HTML, JavaScript, Java, ASP, Visual Basic, XML and DHTML code tutorials and scripts."
+http://www.netalive.org/codersguild/,Coder's Guild Mailing List Archive,"- Once a highly frequented programmer community, this archive contains four years of discussions about many programming problems for all languages."
+http://www.developerfusion.com/,Developer Fusion,"- Tutorials and source code for VB, ASP, PHP, XML, SQL Server, C#, C++ and .NET developers. Plus software reviews, developer jobs, blogs and a discussion forum."
+http://www.developer.com/,Developer.com,"- Provides link directory, technical articles, news, forum, and online books for Java, Linux, JavaScript, Perl, ActiveX, Visual Basic, HTML, DHMTL, XML, ColdFusion, C and C++."
+http://www.devx.com/,DevX,"- Source code, tips and tricks. Most source is free."
+http://freeitbookdirectory.atspace.org/,Directory of computer e-books,"- Links to programming related online e-books."
+http://www.dreamincode.net/,dream.in.code,"- Articles, tutorials, and forums for web developers and programmers."
+http://www.finditanswers.com/,FindITAnswers,"- Search engine optimized for software developers and other IT professionals. Focused on technical content difficult to find with other search tools and sites."
+http://anaturb.net/,For Programmers,"- Programming related resources, including manuals, code examples, tutorials for C/C++, Perl, MySQL, Bash, Sed/Awk, CSS, Javascript."
+http://www.freetechbooks.com/,FreeTechBooks,"- Free online computer books, documentations and references.  All which can be viewed, copied and printed at no charge for private use."
+http://www.functionx.com/,FunctionX,"- Programming resources, tutorilas and FAQs. Also geometric formulas.  Microsoft OS and program tutorials."
+http://gepardstudio.4ezi.com/,Gepard Studio,"- Sources (Pascal, Delphi, C, Java), games (Java,C)."
+http://www.ibm.com/developerworks/,IBM: developerWorks,"- An online collection of tutorials, sample code, standards, and other resources provided experts at IBM to assist software developers using open standards and cross-platform technologies."
+http://www.itmweb.com/,itmWEB,"- A collection of news, resources, and tools for software engineering, computer programming, and information technology management."
+http://www.krugle.com/,Krugle,"- Search engine for open source code, projects and technical pages."
+http://www.mediadev.com/,MediaDev,"- Recent news and events with specific market studies and resources for software developers. Localised for the UK, France, Spain, Italy and Germany."
+http://msdn.microsoft.com/,Microsoft Developer Network,"- Provides articles, whitepapers, interviews, and sample code for software developers using Microsoft products."
+http://www.mycplus.com/,Mycplus,"- Resources for C/C++, Visual C++ and C# .Net including tutorials and articles, free source codes, and open source utilities."
+http://www.planet-source-code.com/,Planet Source Code,"- Lets programmers submit code for review by other programmers; many source code samples to help educate beginners on many concepts; contests where programmers vote for the most efficient, useful code recently submitted."
+http://programmersheaven.com/,Programmers Heaven,"- A site for programmers with thousands of links and files to explore. Everything from Assembler to Visual Basic can be found here."
+http://raingod.com/raingod/resources/,Raingod,"- Resources for Java, Javascript, Perl, Python, Macintosh and Palm."
+http://sitereview.org/coding/,Sitereview.org,"- Programming site reviews posted by users."
+http://www.softpanorama.org/,Softpanorama,"- Information on Open Source software movement. Also provides a collection of links to Linux, programming languages, databases, and networking."
+http://www.source-code.biz/,source-code.biz,"- Source code and tips for Java, PHP, VB, VBScript and other programming languages."
+http://www.sourcecodesworld.com/,Sourcecodes World,"- Collection of computer projects, programs, source codes, tips and resources in C, C++, Java, Java Script, ASP, COBOL, Pascal."
+http://www.techbooksforfree.com/,TechBooksForFree.com,"- Free online programming and computer science books (Linux, Java, Microsoft tools, C/C++, Perl and Python)."
+http://www.undocprint.org/,Undocumented Printing,"- Various information for developers on windows printing."
+http://www.upload.co.il/,Upload.co.il,"- Provides developers with a place to upload, meet, share, exchange ideas and codes, build, improve, bug-fix, read, redistribute, and modify the source code of contributions submitted to the site."
+http://www.vyomworld.com/source/,Vyom Source Codes Directory,"- Contains categorised source codes in different programming languages - C, C++, Java, Pascal and COBOL."
+http://www.zenspider.com/index.html,Zen Spider Website,"- Information and tools for language writers and programmers."
+http://www.acooke.org/comp-lang.html,An Introduction to Programming Languages,"- A neutral conceptual analysis for those who know one language and want to learn about others."
+http://lambda-the-ultimate.org/,Lambda the Ultimate,"- Programming Languages Weblog with news and discussion."
+http://en.wikipedia.org/wiki/Programming_language,Programming Language,"- Growing article, with links to many related topics. [Wikipedia]"
+http://www.webopedia.com/Programming/Programming_Languages,Webopedia: Programming Languages,"- Dictionary definitions for words in this category."
+http://www.reddit.com/r/programming,Reddit: Programming,"- For discussion and news about computer programming. Stories with user comments."
+http://en.wikipedia.org/wiki/Computer_programming,Wikipedia - Computer Programming,"- Cover its history, provides an overview, describes modern programming and common procedures and problems, programming languages and programmers."
+http://www.pythonware.com/daily/,eff-bot's Daily Python URL,"- Contains links to assorted resources from the Python universe, compiled by PythonWare."
+http://www.oinko.net/freepython/,Free Python and Zope Hosting Directory,"- A directory of free Python and Zope hosting providers, with reviews and ratings."
+http://oreilly.com/python/,O'Reilly Python Center,"- Features Python books, resources, news and articles."
+https://www.python.org/dev/,Python Developer's Guide,"- Resources for reporting bugs, accessing the Python source tree with CVS and taking part in the development of Python."
+http://win32com.goermezer.de/,Social Bug,"- Scripts, examples and news about Python programming for the Windows platform."
+http://www.tek-tips.com/threadminder.cfm?pid=102,Borland (Inprise): Delphi Forum: Tek-Tips,"- Technical support and mutual help system for computer professionals. Forbids selling, recruiting."
+http://www.delphibasics.co.uk/,Delphi Basics,"- Reference information for the Delphi programming language, from Delphi 7 to Delphi 2005 with examples."
+http://www.magsys.co.uk/delphi/,Delphi Developers,"- Please note that the information and components on this page are only of use to developers using Inprise (Borland) Delphi development tools."
+http://www.drbob42.com/Delphi5/,Dr.Bob's Delphi 5 Clinic,"- The latest news, technical articles on Delphi 5 features, book reviews and training events on Borland Delphi 5 from Inprise."
+http://www2.latech.edu/~acm/helloworld/delphi.html,"Hello, World program","- Delphi 1.0/2.0"
+http://www.delphi-jedi.org/,Project JEDI,"- An international community of Delphi developers with a mission to exploit efforts, experiences and resources to make Delphi and Kylix--the greatest Windows and Linux application development tools."
+http://www.unzeen.com/,Experience Zone,"- ประสบการณ์ บทความ การทำเว็บ การทำ seo การเขียนโปรแกรม php java javascript การติดตั้ง server FreeBSD Linux"
+http://www.nextproject.net/,Next Project,"- ความรู้ ต่างๆ เกี่ยวกับ IT และ อิเลคทรอนิกส์ รวมบทความและซอร์สโค๊ดภาษา C,asp,asp.net,vb,vb.net"
+http://www.pantip.com/tech/developer/,PANTIP.COM Developer,"- รวมกระทู้ที่เกี่ยวข้องกับการพัฒนาซอฟแวร์"
+http://weblog.punneng.com/,PunNeng on Rails,"- รวบรวมเรื่องเกี่ยวกับการเขียนโปรแกรมต่างๆ เทคโนโลยีใหม่ๆ ในการเขียนโปรแกรม - Ruby on Rails, AJAX, Flash ..."
+http://www.siamdev.net/,SiamDev.Net,"- การเขียนโปรแกรม VB ASP ASP.NET PHP และยังมี Source Code อีกมากมาย"
+http://sleepydesign.tripod.com/,Sleepy Design,"- Macromedia, Dreamweaver Tutorials, Fireworks Tutorials, Swish Tutorials, สอนการสร้างโฮมเพจ, การใช้งาน Dreamweaver"
+http://www.sourcecode.in.th/,Sourcecode in Thailand,"- รวมบทความสอนการเขียน ASP,PHP,Java,C++,VB พร้อมทั้ง sourcecode"
+http://www.thaiio.com/,Thai IO,"- แหล่งรวมความรู้ และ บทความด้านการเขียนโปรแกรมติดต่อ Hardware และ Network โดยใช้VB,VC++,Pascal และ Assembly"
+http://www.thaimisc.com/,Thai Miscellaneous,"- ดาวน์โหลด, ซอฟต์แฟร์เยี่ยม, ไอซีคิว, perl script"
+http://www.a4mis.biz/,บริษัท กัณฐกิจคอมพิวเตอร์ จำกัด,"- โปรแกรมบริหารบริษัทอุปกรณ์ก่อสร้าง สินค้าผ่อนชำระ ปลีก-ส่ง คาร์แคร์ โรงแรม ห้องสมุด"
+http://computer.todaygoods.com/,การเขียนโปรแกรมคอมพิวเตอร์,"- รูปแบบโค๊ดของซีเอสเอส ดีโอเอ็ม พีเอชพี และจาวาสคริป"
+http://www.jomyut.net/,จอมยุทธ์.เน็ต,"- เทคนิคการเขียนโปรแกรมเทอร์โบปาสคาล / PASCAL / CGI / PERL / SCRIPT"
+http://www.i-devinnova.com/,ไอเดฟอินโนวา,"- เขียนโปรแกรม สร้างระบบผ่านเว็บ อะนิเมชั่น ในจังหวัดอุบลราชธานี"
+http://www.abc.net/,ABC.net,"- Web directory based on ODP RDF data dumps, with rearranged front page. There is also a metasearch tool with options to search the web, the directory, images or shopping."
+http://www.alexa.com/,Alexa,"- Provides a search feature and a directory from the ODP. Directory listings can be ordered by popularity, user rating or alphabetically, and there are links to Alexa's information on each site."
+http://directory.amfibi.com/,Amfibi Directory,"- Web directory with thousands of categories and millions of websites provided by the Open Directory and enhanced by Amfibi."
+http://www.cool4kids.com/,Cool4Kids.com,"- Using the ODP Kids and Teens directory."
+http://thecowcorral.master.com/,The Cow Corral Search Engine,"- A demonstration from master.com of the search and directory it offers to webmasters, using the Open Directory data."
+http://www.neuber.com/delphi/,Delphi Search Engine Directory,"- A Delphi search engine for the Web and newsgroups and directory drawn from ODP Computers: Programming: Languages: Delphi."
+http://directory.domaintools.com/,DomainTools Directory,"- Data was last updated from DMOZ on September 13, 2011."
+http://www.dominion-web.com/,Dominion Web,"- Uses ODP data to demonstrate their product: DWdirectory."
+http://dsl-service-providers.com/,DSL Service Providers,"- Directory by state with map and list, combining data from the ODP."
+http://www.gosearchfor.com/,GoSearchFor.com,"- Uses ODP directory with Thumbshots."
+http://ebookpublisherz.instantdirectory.net/directory.cgi,Instant Directory,"- ODP content powered by Instant Content."
+http://jcsearch.com/,JasmineCorp Directory,"- Directory using ODP data with added advertising."
+http://www.labour-party.org.uk/,Labour-Party.org.uk,"- An unofficial site about the UK's Labour Party, with the links directory based on an old version of Regional/Europe/United_Kingdom/Society_and_Culture/Politics/Parties/Labour/ category. RDF dump."
+http://www.libdems.co.uk/,Libdems.co.uk,"- An unofficial site from Political News about the UK's Liberal Democrats, with the links directory based on an old version of the relevant ODP category. RDF dump."
+http://www.the-linx.com/,The Linx,"- A global web directory using DMOZ 2.0 data, thumbnails and Google PageRank."
+http://listoflists.com/,List of Lists Internet Directory,"- ODP site on Linux with Postgres SQL. Uses minimal display format. RDF dump."
+http://okuka.master.com/,Master.com portal,"- A demonstration from master.com of the search and directory it offers to webmasters, using the Open Directory data."
+http://navinka.com/,Navinka,"- Directory using ODP data."
+http://netdirectory.instantdirectory.net/,Net Directory,"- A scraped copy of the Open Directory."
+http://www.religionexplorer.com/,Religion Explorer,"- Provides a copy of the Open Directory categories on religion, with added site previews by Thumshots. Also uses Aspseek technology to provide a search engine restricted to sites listed in those categories."
+http://www.sciencedaily.com/,ScienceDaily Magazine,"- News about science, technology, and health. Archived stories are filed into ODP categories alongside the links."
+http://zerodirectory.com/,Zero Directory,"- A copy of the ODP presented in tabular form, with added advertising."
+http://www.efaircn.com/,中国电子展网上博览会,"- 提供中国电子展信息、行业新闻资讯，采购与供应商信息库，电子产品网上展览。"
+http://www.hwhx.net/,南京华维恒信电力,"- 生产过电压保护器和避雷器。"
+http://www.tjgd.com/,天津港东科技发展股份有限公司,"- 一家专业从事物理实验仪器和现代分析仪器研发、生产和销售的高新技术企业。"
+http://www.krao.com.cn/,江苏凯隆电器有限公司,"- 从事高低压配电电器及控制电器的研发、生产和销售。"
+http://www.kelon.com/,海信科龙电器股份有限公司,"- 主营冰箱、空调、冷柜等白色家电领域产品的研发、制造、营销和售后服务。"
+http://www.global88.com/,深圳市高宝科技发展有限公司,"- 主营美发电器附件加工，如陶瓷发热片等。"
+http://www.yaohua-china.com/,耀华电器集团有限公司,"- 生产继电器，开关柜，高低压变压器，机床产品等。"
+http://www.efaircn.com/,中国电子展网上博览会,"- 提供中国电子展信息、行业新闻资讯，采购与供应商信息库，电子产品网上展览。"
+http://www.hwhx.net/,南京华维恒信电力,"- 生产过电压url,name,description
+http://bigprof.com/,BigProf Software,"- Contains PHP and C source code and resources for programmers. Offers tools for free download."
+http://people.csail.mit.edu/phw/Books/,Books by Patrick Henry Winston and Friends,"- Patrick H. Winston, (co-)author of ""On To Java, Third Edition"", ""On To Smalltalk"", ""On To C++"", ""On To C"", Artificial Intelligence, and Lisp presents his book."
+http://cleancode.sourceforge.net/,CleanCode,"- Guidelines for good software design/web page design (and examples of what not to do!), plus open-source tools and libraries for developers, focussing on Java, Perl, Javascript, CGI, and XML."
+http://www.codetoad.com/,Code Toad,"- Resource index for HTML, JavaScript, Java, ASP, Visual Basic, XML and DHTML code tutorials and scripts."
+http://www.netalive.org/codersguild/,Coder's Guild Mailing List Archive,"- Once a highly frequented programmer community, this archive contains four years of discussions about many programming problems for all languages."
+http://www.developerfusion.com/,Developer Fusion,"- Tutorials and source code for VB, ASP, PHP, XML, SQL Server, C#, C++ and .NET developers. Plus software reviews, developer jobs, blogs and a discussion forum."
+http://www.developer.com/,Developer.com,"- Provides link directory, technical articles, news, forum, and online books for Java, Linux, JavaScript, Perl, ActiveX, Visual Basic, HTML, DHMTL, XML, ColdFusion, C and C++."
+http://www.devx.com/,DevX,"- Source code, tips and tricks. Most source is free."
+http://freeitbookdirectory.atspace.org/,Directory of computer e-books,"- Links to programming related online e-books."
+http://www.dreamincode.net/,dream.in.code,"- Articles, tutorials, and forums for web developers and programmers."
+http://www.finditanswers.com/,FindITAnswers,"- Search engine optimized for software developers and other IT professionals. Focused on technical content difficult to find with other search tools and sites."
+http://anaturb.net/,For Programmers,"- Programming related resources, including manuals, code examples, tutorials for C/C++, Perl, MySQL, Bash, Sed/Awk, CSS, Javascript."
+http://www.freetechbooks.com/,FreeTechBooks,"- Free online computer books, documentations and references.  All which can be viewed, copied and printed at no charge for private use."
+http://www.functionx.com/,FunctionX,"- Programming resources, tutorilas and FAQs. Also geometric formulas.  Microsoft OS and program tutorials."
+http://gepardstudio.4ezi.com/,Gepard Studio,"- Sources (Pascal, Delphi, C, Java), games (Java,C)."
+http://www.ibm.com/developerworks/,IBM: developerWorks,"- An online collection of tutorials, sample code, standards, and other resources provided experts at IBM to assist software developers using open standards and cross-platform technologies."
+http://www.itmweb.com/,itmWEB,"- A collection of news, resources, and tools for software engineering, computer programming, and information technology management."
+http://www.krugle.com/,Krugle,"- Search engine for open source code, projects and technical pages."
+http://www.mediadev.com/,MediaDev,"- Recent news and events with specific market studies and resources for software developers. Localised for the UK, France, Spain, Italy and Germany."
+http://msdn.microsoft.com/,Microsoft Developer Network,"- Provides articles, whitepapers, interviews, and sample code for software developers using Microsoft products."
+http://www.mycplus.com/,Mycplus,"- Resources for C/C++, Visual C++ and C# .Net including tutorials and articles, free source codes, and open source utilities."
+http://www.planet-source-code.com/,Planet Source Code,"- Lets programmers submit code for review by other programmers; many source code samples to help educate beginners on many concepts; contests where programmers vote for the most efficient, useful code recently submitted."
+http://programmersheaven.com/,Programmers Heaven,"- A site for programmers with thousands of links and files to explore. Everything from Assembler to Visual Basic can be found here."
+http://raingod.com/raingod/resources/,Raingod,"- Resources for Java, Javascript, Perl, Python, Macintosh and Palm."
+http://sitereview.org/coding/,Sitereview.org,"- Programming site reviews posted by users."
+http://www.softpanorama.org/,Softpanorama,"- Information on Open Source software movement. Also provides a collection of links to Linux, programming languages, databases, and networking."
+http://www.source-code.biz/,source-code.biz,"- Source code and tips for Java, PHP, VB, VBScript and other programming languages."
+http://www.sourcecodesworld.com/,Sourcecodes World,"- Collection of computer projects, programs, source codes, tips and resources in C, C++, Java, Java Script, ASP, COBOL, Pascal."
+http://www.techbooksforfree.com/,TechBooksForFree.com,"- Free online programming and computer science books (Linux, Java, Microsoft tools, C/C++, Perl and Python)."
+http://www.undocprint.org/,Undocumented Printing,"- Various information for developers on windows printing."
+http://www.upload.co.il/,Upload.co.il,"- Provides developers with a place to upload, meet, share, exchange ideas and codes, build, improve, bug-fix, read, redistribute, and modify the source code of contributions submitted to the site."
+http://www.vyomworld.com/source/,Vyom Source Codes Directory,"- Contains categorised source codes in different programming languages - C, C++, Java, Pascal and COBOL."
+http://www.zenspider.com/index.html,Zen Spider Website,"- Information and tools for language writers and programmers."
+https://www.python.org/,Python,"- Official site for the interpreted, interactive, object-oriented, extensible programming language. Includes news, documentation, free downloads, and developer information."
+http://python.meetup.com/,Python Meetup Day,"- A free service that coordinates local Python developers meeting in person, every month on the second Thursday of the month."
+http://www.reddit.com/r/programming,Reddit: Programming,"- For discussion and news about computer programming. Stories with user comments."
+http://en.wikipedia.org/wiki/Computer_programming,Wikipedia - Computer Programming,"- Cover its history, provides an overview, describes modern programming and common procedures and problems, programming languages and programmers."
+http://www.acooke.org/comp-lang.html,An Introduction to Programming Languages,"- A neutral conceptual analysis for those who know one language and want to learn about others."
+http://lambda-the-ultimate.org/,Lambda the Ultimate,"- Programming Languages Weblog with news and discussion."
+http://en.wikipedia.org/wiki/Programming_language,Programming Language,"- Growing article, with links to many related topics. [Wikipedia]"
+http://www.webopedia.com/Programming/Programming_Languages,Webopedia: Programming Languages,"- Dictionary definitions for words in this category."
+http://www.pythonware.com/daily/,eff-bot's Daily Python URL,"- Contains links to assorted resources from the Python universe, compiled by PythonWare."
+http://www.oinko.net/freepython/,Free Python and Zope Hosting Directory,"- A directory of free Python and Zope hosting providers, with reviews and ratings."
+http://oreilly.com/python/,O'Reilly Python Center,"- Features Python books, resources, news and articles."
+https://www.python.org/dev/,Python Developer's Guide,"- Resources for reporting bugs, accessing the Python source tree with CVS and taking part in the development of Python."
+http://win32com.goermezer.de/,Social Bug,"- Scripts, examples and news about Python programming for the Windows platform."
+http://dylanpro.com/DylanExchange.html,Dylan Exchange,"- Information, links, and references on Dylan."
+http://en.wikipedia.org/wiki/Dylan_programming_language,Dylan Programming Language,"- Growing article, with links to many related topics. [Wikipedia]"
+http://www2.latech.edu/~acm/helloworld/dylan.html,"Hello, World program","- A Hello World program using the old Lisp like Dylan syntax. Dylan now uses a Pascal/C like syntax so it makes an interesting historical example."
+http://opendylan.org/,Open Dylan,"- A full-featured implementation of the Dylan language with a powerful IDE and a command-line compiler. The compiler is currently available for Windows, Linux, and Mac OS X (x86 and PPC). The IDE only works on Windows until the GTK backend for DUIM is finished. It's formally known as Functional Developer and as Harlequin Dylan."
+http://www.pcai.com/web/ai_info/pcai_dylan.html,PC AI: The Dylan Programming Language,"- Contains links to information, vendors, books, and articles about Dylan."
+http://computerhope.com/batch.htm,Batch File Help,"- Information and help with DOS batch files."
+http://www.infionline.net/~wtnewton/batch/batguide.html,Batch Guide,"- Labels, conditions, branching, decisions, user input, list and subdirectory processing, qbasic."
+http://student.vub.ac.be/~dvandeun/batcoll.all,Batch Programming Elements,"- Collection of batch language enhancers in batch language by Dirk van Deun."
+http://www.infionline.net/~wtnewton/batch/,Batch Programming Stuff,"- Includes batch files, batch how-to's, and batch utilities. (Terry Newton)"
+http://techtutorials.net/tutorials/miscellaneous/dos.html,DOS and Batch Files Help and Tips,"- Free DOS tutorials and whitepapers."
+http://lf.8k.com/bat/bat.htm,DOS BATCH,"- Features math routines, and date parsing methods.  (Laura Fairhead)"
+http://www.chebucto.ns.ca/~ak621/DOS/BatBasic.html,DOS Batch File Tutorial,"- Basic and advanced batch. Clear concise examples and tips."
+http://dos.rsvs.net/,The DOS Underground,"- Secrets, FAQs, internal, external and batch commands, config.sys directives and menus, and links."
+http://www.infionline.net/~wtnewton/batch/batchfaq.html,Frequently Asked Questions about Batch,"- FAQ with answers tailored to MS-DOS 6 and Windows 9x. Practical examples from basic to advanced topics."
+http://www.carleton.ca/~dmcfet/menu.html,How To Make DOS Menus,"- Step by step instruction with graphic illustration."
+http://support.microsoft.com/?id=71986,MS-DOS 5.0 Internal and External Commands,"- Internal commands reside in COMMAND.COM, which loads into memory when the computer system is started. External commands are separate files."
+http://www.robvanderwoude.com/,Scripting Pages,"- Batch Files for DOS, Windows (all flavours) and OS/2; Rexx; JavaScript; HTML (Rob van der Woude)"
+http://www.textfiles.com/hacking/MICROSOFT/dosundoc.txt,Undocumented MS-DOS features,"- Collection of undocumented and obscure features in various MS-DOS versions."
+http://www.vfrazee.com/ms-dos/6.22/help/,Vernon Frazee: MS-DOS v6.22 Help,"- Complete contents from the DOS command HELP converted to HTML."
+http://www.ericphelps.com/batch/index.htm,Windows 95 / DOS 7 Batch Programming,"- Innovative workarounds and methods to accomplish tasks not generally covered in the manuals."
+http://groups.yahoo.com/group/batchworld/,Yahoo! Groups: Batch World,"- Mailing list whose members exchange ideas and offer help on issues."
+http://www.reddit.com/r/programming,Reddit: Programming,"- For discussion and news about computer programming. Stories with user comments."
+http://en.wikipedia.org/wiki/Computer_programming,Wikipedia - Computer Programming,"- Cover its history, provides an overview, describes modern programming and common procedures and problems, programming languages and programmers."
+http://www.abc.net/,ABC.net,"- Web directory based on ODP RDF data dumps, with rearranged front page. There is also a metasearch tool with options to search the web, the directory, images or shopping."
+http://www.alexa.com/,Alexa,"- Provides a search feature and a directory from the ODP. Directory listings can be ordered by popularity, user rating or alphabetically, and there are links to Alexa's information on each site."
+http://directory.amfibi.com/,Amfibi Directory,"- Web directory with thousands of categories and millions of websites provided by the Open Directory and enhanced by Amfibi."
+http://www.cool4kids.com/,Cool4Kids.com,"- Using the ODP Kids and Teens directory."
+http://thecowcorral.master.com/,The Cow Corral Search Engine,"- A demonstration from master.com of the search and directory it offers to webmasters, using the Open Directory data."
+http://www.neuber.com/delphi/,Delphi Search Engine Directory,"- A Delphi search engine for the Web and newsgroups and directory drawn from ODP Computers: Programming: Languages: Delphi."
+http://directory.domaintools.com/,DomainTools Directory,"- Data was last updated from DMOZ on September 13, 2011."
+http://www.dominion-web.com/,Dominion Web,"- Uses ODP data to demonstrate their product: DWdirectory."
+http://dsl-service-providers.com/,DSL Service Providers,"- Directory by state with map and list, combining data from the ODP."
+http://www.gosearchfor.com/,GoSearchFor.com,"- Uses ODP directory with Thumbshots."
+http://ebookpublisherz.instantdirectory.net/directory.cgi,Instant Directory,"- ODP content powered by Instant Content."
+http://jcsearch.com/,JasmineCorp Directory,"- Directory using ODP data with added advertising."
+http://www.labour-party.org.uk/,Labour-Party.org.uk,"- An unofficial site about the UK's Labour Party, with the links directory based on an old version of Regional/Europe/United_Kingdom/Society_and_Culture/Politics/Parties/Labour/ category. RDF dump."
+http://www.libdems.co.uk/,Libdems.co.uk,"- An unofficial site from Political News about the UK's Liberal Democrats, with the links directory based on an old version of the relevant ODP category. RDF dump."
+http://www.the-linx.com/,The Linx,"- A global web directory using DMOZ 2.0 data, thumbnails and Google PageRank."
+http://listoflists.com/,List of Lists Internet Directory,"- ODP site on Linux with Postgres SQL. Uses minimal display format. RDF dump."
+http://okuka.master.com/,Master.com portal,"- A demonstration from master.com of the search and directory it offers to webmasters, using the Open Directory data."
+http://navinka.com/,Navinka,"- Directory using ODP data."
+http://netdirectory.instantdirectory.net/,Net Directory,"- A scraped copy of the Open Directory."
+http://www.religionexplorer.com/,Religion Explorer,"- Provides a copy of the Open Directory categories on religion, with added site previews by Thumshots. Also uses Aspseek technology to provide a search engine restricted to sites listed in those categories."
+http://www.sciencedaily.com/,ScienceDaily Magazine,"- News about science, technology, and health. Archived stories are filed into ODP categories alongside the links."
+http://zerodirectory.com/,Zero Directory,"- A copy of the ODP presented in tabular form, with added advertising."
+url,name,description
+http://www.reddit.com/r/programming,Reddit: Programming,"- For discussion and news about computer programming. Stories with user comments."
+http://bigprof.com/,BigProf Software,"- Contains PHP and C source code and resources for programmers. Offers tools for free download."
+http://en.wikipedia.org/wiki/Computer_programming,Wikipedia - Computer Programming,"- Cover its history, provides an overview, describes modern programming and common procedures and problems, programming languages and programmers."
+http://people.csail.mit.edu/phw/Books/,Books by Patrick Henry Winston and Friends,"- Patrick H. Winston, (co-)author of ""On To Java, Third Edition"", ""On To Smalltalk"", ""On To C++"", ""On To C"", Artificial Intelligence, and Lisp presents his book."
+http://cleancode.sourceforge.net/,CleanCode,"- Guidelines for good software design/web page design (and examples of what not to do!), plus open-source tools and libraries for developers, focussing on Java, Perl, Javascript, CGI, and XML."
+http://www.codetoad.com/,Code Toad,"- Resource index for HTML, JavaScript, Java, ASP, Visual Basic, XML and DHTML code tutorials and scripts."
+http://www.netalive.org/codersguild/,Coder's Guild Mailing List Archive,"- Once a highly frequented programmer community, this archive contains four years of discussions about many programming problems for all languages."
+http://www.developerfusion.com/,Developer Fusion,"- Tutorials and source code for VB, ASP, PHP, XML, SQL Server, C#, C++ and .NET developers. Plus software reviews, developer jobs, blogs and a discussion forum."
+http://www.developer.com/,Developer.com,"- Provides link directory, technical articles, news, forum, and online books for Java, Linux, JavaScript, Perl, ActiveX, Visual Basic, HTML, DHMTL, XML, ColdFusion, C and C++."
+http://www.devx.com/,DevX,"- Source code, tips and tricks. Most source is free."
+http://freeitbookdirectory.atspace.org/,Directory of computer e-books,"- Links to programming related online e-books."
+http://www.dreamincode.net/,dream.in.code,"- Articles, tutorials, and forums for web developers and programmers."
+http://www.finditanswers.com/,FindITAnswers,"- Search engine optimized for software developers and other IT professionals. Focused on technical content difficult to find with other search tools and sites."
+http://anaturb.net/,For Programmers,"- Programming related resources, including manuals, code examples, tutorials for C/C++, Perl, MySQL, Bash, Sed/Awk, CSS, Javascript."
+http://www.freetechbooks.com/,FreeTechBooks,"- Free online computer books, documentations and references.  All which can be viewed, copied and printed at no charge for private use."
+http://www.functionx.com/,FunctionX,"- Programming resources, tutorilas and FAQs. Also geometric formulas.  Microsoft OS and program tutorials."
+http://gepardstudio.4ezi.com/,Gepard Studio,"- Sources (Pascal, Delphi, C, Java), games (Java,C)."
+http://www.ibm.com/developerworks/,IBM: developerWorks,"- An online collection of tutorials, sample code, standards, and other resources provided experts at IBM to assist software developers using open standards and cross-platform technologies."
+http://www.itmweb.com/,itmWEB,"- A collection of news, resources, and tools for software engineering, computer programming, and information technology management."
+http://www.krugle.com/,Krugle,"- Search engine for open source code, projects and technical pages."
+http://www.mediadev.com/,MediaDev,"- Recent news and events with specific market studies and resources for software developers. Localised for the UK, France, Spain, Italy and Germany."
+http://msdn.microsoft.com/,Microsoft Developer Network,"- Provides articles, whitepapers, interviews, and sample code for software developers using Microsoft products."
+http://www.mycplus.com/,Mycplus,"- Resources for C/C++, Visual C++ and C# .Net including tutorials and articles, free source codes, and open source utilities."
+http://www.planet-source-code.com/,Planet Source Code,"- Lets programmers submit code for review by other programmers; many source code samples to help educate beginners on many concepts; contests where programmers vote for the most efficient, useful code recently submitted."
+http://programmersheaven.com/,Programmers Heaven,"- A site for programmers with thousands of links and files to explore. Everything from Assembler to Visual Basic can be found here."
+http://raingod.com/raingod/resources/,Raingod,"- Resources for Java, Javascript, Perl, Python, Macintosh and Palm."
+https://www.python.org/,Python,"- Official site for the interpreted, interactive, object-oriented, extensible programming language. Includes news, documentation, free downloads, and developer information."
+http://sitereview.org/coding/,Sitereview.org,"- Programming site reviews posted by users."
+http://www.softpanorama.org/,Softpanorama,"- Information on Open Source software movement. Also provides a collection of links to Linux, programming languages, databases, and networking."
+http://www.source-code.biz/,source-code.biz,"- Source code and tips for Java, PHP, VB, VBScript and other programming languages."
+http://www.sourcecodesworld.com/,Sourcecodes World,"- Collection of computer projects, programs, source codes, tips and resources in C, C++, Java, Java Script, ASP, COBOL, Pascal."
+http://www.techbooksforfree.com/,TechBooksForFree.com,"- Free online programming and computer science books (Linux, Java, Microsoft tools, C/C++, Perl and Python)."
+http://www.undocprint.org/,Undocumented Printing,"- Various information for developers on windows printing."
+http://www.upload.co.il/,Upload.co.il,"- Provides developers with a place to upload, meet, share, exchange ideas and codes, build, improve, bug-fix, read, redistribute, and modify the source code of contributions submitted to the site."
+http://www.vyomworld.com/source/,Vyom Source Codes Directory,"- Contains categorised source codes in different programming languages - C, C++, Java, Pascal and COBOL."
+http://www.zenspider.com/index.html,Zen Spider Website,"- Information and tools for language writers and programmers."
+http://python.meetup.com/,Python Meetup Day,"- A free service that coordinates local Python developers meeting in person, every month on the second Thursday of the month."
+http://www.acooke.org/comp-lang.html,An Introduction to Programming Languages,"- A neutral conceptual analysis for those who know one language and want to learn about others."
+http://lambda-the-ultimate.org/,Lambda the Ultimate,"- Programming Languages Weblog with news and discussion."
+http://en.wikipedia.org/wiki/Programming_language,Programming Language,"- Growing article, with links to many related topics. [Wikipedia]"
+http://www.webopedia.com/Programming/Programming_Languages,Webopedia: Programming Languages,"- Dictionary definitions for words in this category."
+http://www.pythonware.com/daily/,eff-bot's Daily Python URL,"- Contains links to assorted resources from the Python universe, compiled by PythonWare."
+http://www.oinko.net/freepython/,Free Python and Zope Hosting Directory,"- A directory of free Python and Zope hosting providers, with reviews and ratings."
+http://oreilly.com/python/,O'Reilly Python Center,"- Features Python books, resources, news and articles."
+https://www.python.org/dev/,Python Developer's Guide,"- Resources for reporting bugs, accessing the Python source tree with CVS and taking part in the development of Python."
+http://win32com.goermezer.de/,Social Bug,"- Scripts, examples and news about Python programming for the Windows platform."
+ftp://ftp.inria.fr/INRIA/Projects/ChLoE/LOGIC_PROGRAMMING/clp_fd/,clp(FD),"- This constraint logic programming language over Finite Domains (clp(FD)) is based on the wamcc Prolog compiler."
+http://cg.huminf.aau.dk/Module_II/10000.html,Course on Prolog,"- A concise, example-based introduction to Prolog for people from the humanities.  Uses the freely available Prolog+CG to teach programming within a course in knowledge representation using conceptual graphs."
+http://www.lif-sud.univ-mrs.fr/~colmer/texte.html,Early History of Prolog,"- Draft of a paper in History of Programming Languages, edited by Thomas J. Bergin and Richard G. Gibson, ACM. Abstract and PDF."
+http://www.cs.cmu.edu/Groups/AI/html/faqs/lang/prolog/prg/part2/faq.html,FAQ: Prolog Implementations,"- Information about Prolog Implementations."
+http://www2.latech.edu/~acm/helloworld/prolog.html,"Hello, World program","- For Prolog."
+http://books.google.nl/books?id=SFJuq1uRqmMC&printsec=frontcover#v=onepage&q&f=false,INAP2001,"- 14th International Conference of Applications of Prolog. University of Tokyo, Japan, October 20 - 22, 2001."
+http://boklm.eu/prolog/,An introduction to Prolog,"- A short introduction to Prolog by Michel Loiseleur and Nicolas Vigier."
+http://www.cs.unipr.it/~bagnara/Papers/Abstracts/ALPN99a,Is the ISO Prolog standard taken seriously,"- article by Roberto Bagnara."
+http://www.probp.com/manual/node175.html,JIPL: Java Interface for Prolog,"- Interface between Java and Prolog through JNI and reflection."
+http://www.cplire.ru/Lab144/space/prolog.html,Logic Programming 3D Site,"- The main idea of this Site is 3D  (VRML) representation of the World  Wide Web. The Site describes the area  of logic programming and Prolog.  All the information was collected by  Actor Prolog agents."
+http://www.lpa.co.uk/,Logic Programming Associates,"- This software house supplies WIN-PROLOG, MacProlog32 and Prolog++."
+http://archive.adaic.com/ase/ase02_01/bookcase/ref_sh/cetusweb/oo_prolog.html,OO Prolog,"- This collection of non-commercial links treats Prolog within the context of object- and component-orientation."
+http://www.oopweb.com/Prolog/Files/Prolog.html,OOPWeb - Prolog Directory,"- Prolog programming tutorial and online book."
+http://www.pcai.com/,PC AI: The Prolog Programming Language,"- Explanations, links."
+http://www.clip.dia.fi.upm.es/miscdocs/pillow/pillow.html,PiLLoW,"- Programming in Logic Languages on the Web (PiLLoW) is a public-domain library for developing Web applications using (constraint) logic programming.  It constitutes part of the Ciao Prolog development system."
+http://www.cpp.edu/~jrfisher/www/prolog_tutorial/contents.html,Prolog :- Tutorial,"- From basics to advanced topics tutorial by J.R.Fisher."
+http://mind.sourceforge.net/prolog.html,Prolog for Artificial Intelligence,"- Open Source AI projects in Prolog."
+http://www.fraber.de/university/prolog/,Prolog for Beginners,"- A comparison of several Prolog systems from a beginners perspective"
+http://www.cs.cmu.edu/Groups/AI/html/faqs/lang/prolog/prg/top.html,Prolog Resource Guide,"- The complete FAQs from news:comp.lang.prolog"
+http://www.allisons.org/ll/Logic/Prolog/,Prolog small,"- Includes an introduction to Prolog, unification, the back-tracking search process, the source code of a Prolog interpreter, example Prolog programs, the logic of Sir Bedevere (Monty Python), and a Java applet that runs Prolog."
+http://en.wikibooks.org/wiki/Programming:Prolog,Prolog Wikibook,"- A wiki based book on Prolog."
+http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.51.5463,"ResearchIndex: Complete Logic Systems, Inc, September 1987. 80. D.H.D. Warren","- Prolog Instruction Set, Technical Note, SRI International Artificial Intelligence Center, D.S. Warren, S. Dietrich, F. Pereira. The SB Prolog System, SUNY at Stony Brook. Several references for this Prolog."
+http://www.cs.bris.ac.uk/~flach/SimplyLogical.html,Simply Logical,"- Intelligent Reasoning by Example."
+http://eprints.ecs.soton.ac.uk/583/,Distributed Prograph,"- Article by B. Lanaspre and H. Glaser."
+http://www2.latech.edu/~acm/helloworld/prograph.html,"Hello, World program","- Prograph"
+http://www.tritera.com/prograph.html,Made with Prograph List,"- Briefly describes status of Prograph CPX development, with list of activities. [Tritera, Inc.]"
+http://en.wikipedia.org/wiki/Prograph,Prograph,"- Article with description, history, images. [Wikipedia]"
+http://techref.massmind.org/techref/language/prolog/index.htm,Techref - Prolog,"- The Techref page regarding Prolog. Word Prolog meanings. Links."
+http://www.cvc.uab.es/shared/teach/a25002/wambook.pdf,Warren's Abstract Machine: A tutorial reconstruction,"- Online book by Hassan Ait-Kaci. The WAM is an abstract machine tailored to Prolog. It can be realised efficiently on a wide range of hardware, and serves as a target for portable Prolog compilers."
+http://www.ntt.ca/prohome.html,Prograph Development,"- Brief overview, MVC system, graph objects, PCT tools, Layered Protocol tool, drug trial simulation. [NTT Systems Inc.]"
+http://www.dsse.ecs.soton.ac.uk/techreports/95-03/95-6.html,Visualising the Structure of an IC-card Security Architecture,"- Object-oriented dataflow models make it possible to explicitly render security and state manipulations of protocols. Research paper, abstract in HTML, body in Postscript; by Hugh Glaser, Pieter H. Hartel. [Declarative Systems and Software Engineering, DSSE]"
+http://www.dsse.ecs.soton.ac.uk/techreports/95-03/95-3.html,Type Inference in Prograph,"- Research paper, abstract in HTML, body in Postscript; by Benoît Lanaspre, Hugh Glaser. [Declarative Systems and Software Engineering, DSSE]"
+http://www.mactech.com/articles/mactech/Vol.09/09.01/PictButton/index.html,A Pictorial Button Class in Prograph,"- Article by Terry Kilshaw in MacTech magazine (Volume 9 Issue 1)."
+http://bigprof.com/,BigProf Software,"- Contains PHP and C source code and resources for programmers. Offers tools for free download."
+http://people.csail.mit.edu/phw/Books/,Books by Patrick Henry Winston and Friends,"- Patrick H. Winston, (co-)author of ""On To Java, Third Edition"", ""On To Smalltalk"", ""On To C++"", ""On To C"", Artificial Intelligence, and Lisp presents his book."
+http://cleancode.sourceforge.net/,CleanCode,"- Guidelines for good software design/web page design (and examples of what not to do!), plus open-source tools and libraries for developers, focussing on Java, Perl, Javascript, CGI, and XML."
+http://www.codetoad.com/,Code Toad,"- Resource index for HTML, JavaScript, Java, ASP, Visual Basic, XML and DHTML code tutorials and scripts."
+http://www.netalive.org/codersguild/,Coder's Guild Mailing List Archive,"- Once a highly frequented programmer community, this archive contains four years of discussions about many programming problems for all languages."
+http://www.developerfusion.com/,Developer Fusion,"- Tutorials and source code for VB, ASP, PHP, XML, SQL Server, C#, C++ and .NET developers. Plus software reviews, developer jobs, blogs and a discussion forum."
+http://www.developer.com/,Developer.com,"- Provides link directory, technical articles, news, forum, and online books for Java, Linux, JavaScript, Perl, ActiveX, Visual Basic, HTML, DHMTL, XML, ColdFusion, C and C++."
+http://www.devx.com/,DevX,"- Source code, tips and tricks. Most source is free."
+http://freeitbookdirectory.atspace.org/,Directory of computer e-books,"- Links to programming related online e-books."
+http://www.dreamincode.net/,dream.in.code,"- Articles, tutorials, and forums for web developers and programmers."
+http://www.finditanswers.com/,FindITAnswers,"- Search engine optimized for software developers and other IT professionals. Focused on technical content difficult to find with other search tools and sites."
+http://anaturb.net/,For Programmers,"- Programming related resources, including manuals, code examples, tutorials for C/C++, Perl, MySQL, Bash, Sed/Awk, CSS, Javascript."
+http://www.freetechbooks.com/,FreeTechBooks,"- Free online computer books, documentations and references.  All which can be viewed, copied and printed at no charge for private use."
+http://www.functionx.com/,FunctionX,"- Programming resources, tutorilas and FAQs. Also geometric formulas.  Microsoft OS and program tutorials."
+http://gepardstudio.4ezi.com/,Gepard Studio,"- Sources (Pascal, Delphi, C, Java), games (Java,C)."
+http://www.ibm.com/developerworks/,IBM: developerWorks,"- An online collection of tutorials, sample code, standards, and other resources provided experts at IBM to assist software developers using open standards and cross-platform technologies."
+http://www.itmweb.com/,itmWEB,"- A collection of news, resources, and tools for software engineering, computer programming, and information technology management."
+http://www.krugle.com/,Krugle,"- Search engine for open source code, projects and technical pages."
+http://www.mediadev.com/,MediaDev,"- Recent news and events with specific market studies and resources for software developers. Localised for the UK, France, Spain, Italy and Germany."
+http://msdn.microsoft.com/,Microsoft Developer Network,"- Provides articles, whitepapers, interviews, and sample code for software developers using Microsoft products."
+http://www.mycplus.com/,Mycplus,"- Resources for C/C++, Visual C++ and C# .Net including tutorials and articles, free source codes, and open source utilities."
+http://www.planet-source-code.com/,Planet Source Code,"- Lets programmers submit code for review by other programmers; many source code samples to help educate beginners on many concepts; contests where programmers vote for the most efficient, useful code recently submitted."
+http://programmersheaven.com/,Programmers Heaven,"- A site for programmers with thousands of links and files to explore. Everything from Assembler to Visual Basic can be found here."
+http://raingod.com/raingod/resources/,Raingod,"- Resources for Java, Javascript, Perl, Python, Macintosh and Palm."
+http://sitereview.org/coding/,Sitereview.org,"- Programming site reviews posted by users."
+http://www.softpanorama.org/,Softpanorama,"- Information on Open Source software movement. Also provides a collection of links to Linux, programming languages, databases, and networking."
+http://www.source-code.biz/,source-code.biz,"- Source code and tips for Java, PHP, VB, VBScript and other programming languages."
+http://www.sourcecodesworld.com/,Sourcecodes World,"- Collection of computer projects, programs, source codes, tips and resources in C, C++, Java, Java Script, ASP, COBOL, Pascal."
+http://www.techbooksforfree.com/,TechBooksForFree.com,"- Free online programming and computer science books (Linux, Java, Microsoft tools, C/C++, Perl and Python)."
+http://www.undocprint.org/,Undocumented Printing,"- Various information for developers on windows printing."
+http://www.upload.co.il/,Upload.co.il,"- Provides developers with a place to upload, meet, share, exchange ideas and codes, build, improve, bug-fix, read, redistribute, and modify the source code of contributions submitted to the site."
+http://www.vyomworld.com/source/,Vyom Source Codes Directory,"- Contains categorised source codes in different programming languages - C, C++, Java, Pascal and COBOL."
+http://www.zenspider.com/index.html,Zen Spider Website,"- Information and tools for language writers and programmers."
+http://www.dmoz.org/Kids_and_Teens/International/Tatar%C3%A7a/,Balalar häm Üsmerlär@,"- "
+http://ezilnila.com/archives/1128,Frequently asked questions relating to Tamil Unicode.,"- This category is in Unicode. Please read this article if you are not able to see the contents in Tamil."
+http://www.eecs.berkeley.edu/Pubs/TechRpts/2003/5327.html,CCured source-to-source C translator,"- CCured is a source-to-source translator for C. It analyzes the C program to determine the smallest number of run-time checks that must be inserted in the program to prevent all memory safety violations. The resulting program is memory safe, meaning that it will stop rather than overrun a buffer or scribble over memory that it shouldn't touch."
+http://www.parsifalsoft.com/,AnaGram,"- Provides a powerful grammar notation, special features for maintenance of highly configurable parsers, visual parsing and unique interactive debugging tools, supporting thread-safe parsers. The program produces C/C++ parsers for use on any platform and runs under Win9x/NT. A free trial copy is available."
+http://www.semanticdesigns.com/Products/DMS/DMSToolkit.html,DMS Software Reengineering Toolkit,"- Generalized compiler technology for custom parsing, analyzing, transforming, and prettyprinting computer languages, including C, C++, COBOL, Ada, Java, C#, SQL.  Tasks range from metrics to migrations. [Commercial]"
+http://www.cs.indiana.edu/proglang/dynamo/,The Dynamo Project,"- Compiler architecture dynamically optimizes stand-alone programs via staged compiling. Uses run-time values and invariants to improve code as it executes, yielding performance superior to statically optimal code."
+http://ivmaiasn.sourceforge.net/,IvmaiAsn ASN1/ECN/XDR Tools,"- A collection of the ASN.1/ECN parser, XDR-to-ASN.1 converter and pretty-printer scripts for ASN.1/ECN specifications. Contains also a formal definition of the ASN.1 built-in types, ECN encoding classes and XDR encoding rules."
+https://launchpad.net/ooc-language,ooc programming language,"- Reference implementation of the ooc language, a higher-level Java/C#, strictly typed, portable, object-oriented superset of C and generating pure C99 code for speed and size."
+http://trac.mcs.anl.gov/projects/performance/wiki/Orio,Orio Autotuning Framework,"- Orio is a performance autotuning tool that takes user input as annotations in C/C++ or Fortran code to produce low-level Performance optimizations on a specified code fragment. The tool generates many tuned versions of the same operation using different optimization parameters and performs an empirical search for selecting the best performing implementation among multiple optimized code variants."
+http://www.solidopt.org/,Solid Optimizer Project,"- The project SolidOpt provides tools to facilitate the construction of optimization modules. SolidOpt base also provides an environment through which to load optimization modules to control the resources used in the computer system. Different representations of the target application facilitate the implementation of optimization methods. SolidOpt can be used as a compiler optimization using available optimization methods and representations, providing a decompiler if the source code of the target application is not available."
+http://spoon.gforge.inria.fr/,"Spoon: Program Processing, Analysis, and Transformation in Java","- Spoon is a Java program processor that fully supports Java 5. It provides a complete and fine-grained Java metamodel where any program element (classes, methods, fields, statements, expressions...) can be accessed both for reading and modification."
+http://strategoxt.org/,Stratego/XT,"- A modular language for the specification of fully automatic program transformation systems based on the paradigm of rewriting strategies. Free software."
+http://tom.loria.fr/,Tom,"- A Pattern matching transformation system."
+http://www.trimaran.org/,Trimaran,"- An ""integrated compilation and performance monitoring infrastructure"", facilitating compiler-optimization research and involves a collaborative effort by Hewlett Packard, University of Illinois and New York University."
+http://www.cs.queensu.ca/~cordy/,TXL Source Transformation System,"- Rule-based structural transformation is utilized as a paradigm for rapid generation of complex programs."
+http://scratchy.org.nz/austen.php,AustenX Parser Generator,"- An easy-to-use parser (and lexical) generator for Java, using an extended Parsing Expression Grammar framework and with advanced packrat parsing ability."
+ftp://lnx1.hrz.tu-darmstadt.de/pub/programming/languages/C++/tools/flex++bison++/,Bison++ and Flex++,"- A retargeting of bison-1 and flex 2.3 to C++ capable of generating classes. As with Bison and Flex these two tools are independent but designed for mutual compatibility. Examples are provided to help in getting started."
+http://www.vendian.org/mncharity/dir3/btyacc/,BtYacc patches: BackTracking Yacc,"- The version of BtYacc on siber.com suffers from a few minor, but annoying bugs. This is a page with patches."
+http://www.siber.com/btyacc/,BtYacc: BackTracking Yacc,"- A modified version of yacc that supports automatic backtracking and semantic disambiguation to parse ambiguous grammars. It also has syntactic sugar for inherited attributes."
+http://clearparse.sourceforge.net/,ClearParse,"- A small, flexible parsing engine with practically unlimited backtracking capability. [Open Source]"
+http://www.ssw.uni-linz.ac.at/Research/Projects/Compiler.html,Coco/R compiler generator,"- Coco/R combines the functionality of the well-known UNIX tools lex and yacc, to form an extremely easy to use compiler generator that generates recursive descent parsers, their associated scanners, and (in some versions) a driver program, from attributed grammars (written using EBNF syntax with attributes and semantic actions) which conform to the restrictions imposed by LL(1) parsing (rather than LALR parsing, as allowed by yacc)."
+http://epaperpress.com/lexandyacc/index.html,A Compact Guide to Lex and Yacc,"- Tutorial in Lex and Yacc, tools that simplify compiler construction."
+http://cppcc.sourceforge.net/,CppCC (C++ Compiler Compiler),"- A scanner+LL(k = 1..Inf) parser generator for C++. Allows easy top-down description of grammars in an intuitive and extensible manner. [Open source, GPL]"
+http://scottmcpeak.com/elkhound/,Elkhound: A GLR Parser Generator,"- Almost as fast as Bison (for deterministic portions of input) but can parse any context-free grammar. [Open source (BSD)]"
+http://flex.sourceforge.net/,Flex,"- A fast lexical analyser generator. It is a tool for generating programs that perform pattern-matching on text. There are many applications for Flex, including writing compilers in conjunction with GNU Bison. [Open source, GPL]"
+http://www.gnu.org/software/bison/,GNU Bison,"- A general-purpose parser generator that converts a grammar description for an LALR context-free grammar into a C program to parse that grammar. [Open source, GPL]"
+http://gnuwin32.sourceforge.net/,GnuWin32,"- Various GNU tools and software for Win32 including ports of bison, byacc, and flex."
+http://goldparser.org/,GOLD Parser,"- A free parser generator. Unlike common compiler-compilers, it does not require to embed grammar directly into source code. Instead, the Builder analyzes the grammar description and saves the parse tables to a separate file. This file can be subsequently loaded by the actual parser engine and used. [Open Source]"
+http://www.gradsoft.com.ua/products/yayacc_eng.html,GradSoft YaYacc,"- Yet another Yacc, which accept yacc  grammar and produce C++ template-based  reentrant code. [Open Source, BSD license]"
+http://grammatica.percederberg.net/,Grammatica,"- Grammatica is a free LL(k) parser generator (compiler compiler) for C# and Java. Support for automatic error recovery, and instant parsing is available."
+http://www.haskell.org/happy/,Happy Parser Generator for Haskell,"- Takes BNF specification of a grammar and produces a Haskell module containing the parser for that grammar."
+http://hapy.sourceforge.net/,Hapy,"- A runtime parser generator library. It generates parsers from BNF-like language grammars. Parsing scripting languages and communication protocol messages are typical use cases. [Public domain]"
+http://www.hilexed.org/,HiLexed - lexing with ease,"- Top-down, unlimited lookahead parser system in Java with EBNF as grammar notation and separating syntax from semantics. [Open Source (GPL)]"
+https://code.google.com/p/iburg/,"iburg, A Tree Parser Generator","- Generates fast tree parsers for cost-augmented tree grammars. A variant of iburg is used in the code generators for lcc."
+http://www.iwriteiam.nl/MM.html,IParse,"- An interpreting parser, meaning that it accepts as input a grammar and a source file to be parsed according to that grammar, producing an abstract program tree. Very compact implementation."
+http://ironmeta.sourceforge.net/,IronMeta,"- IronMeta is an implementation of Alessandro Warth's OMeta metaprogramming system in C#. It provides a packrat parser generator that generates parsers for Parsing Expression Grammars that operate on arbitrary streams of objects."
+http://javacc.java.net/,JavaCC,"- Java Compiler Compiler reads a grammar specification and converts it to a Java program that can recognize matches to the grammar. In addition to the parser generator itself, JavaCC provides other standard capabilities related to parser generation such as tree building (via a tool called JJTree included with JavaCC), actions, and debugging."
+http://www.cs.rit.edu/~ats/projects/lp/doc/jay/package-summary.html,jay,"- A version of yacc for Java rather than C. Documentation in German."
+http://sourceforge.net/projects/jb2csharp/,JB2CSharp,"- A port of the Java-Bison/Flex software developed by the Serl project at the University of Colorado, Boulder.  Parsers and lexers will be able to use C# actions. The open source .NET project Mono has requested the port, and here it is. [Open source, BSD License]"
+http://jscc.phorward-software.com/,JS/CC Parser Generator,"- JS/CC is a LALR(1) parser and lexer generator for JavaScript/ECMAScript which is entirely written in JavaScript."
+http://lapg.sourceforge.net/,Lapg,"- The combined lexical analyzer and parser generator, which converts a description for a context-free LALR grammar into source file to parse the grammar. [Open source, GPL]"
+http://www.hwaci.com/sw/lemon/,The LEMON Parser Generator,"- Very simple LALR(1) open-source parser generator. Outputs C, claims to produce faster parsers than yacc/bison."
+http://dinosaur.compilertools.net/,The LEX & YACC Page,"- All about Lex, Yacc, Flex, and Bison:  Overview, Online Documentation,  Papers, Tools, Pointers"
+http://www.17slon.com/gp/gp/tply.htm,Lex and Yacc for Delphi 3,"- Port of lex and yacc to Delphi 3. Base at port to Turbo Pascal."
+http://www.benhanson.net/lexertl.html,lexertl: The Modular Lexical Analyser Generator,"- Generation of run-time lexical analysers, increasing flexibility through exposed state machine generated from a lex specification. Compiles under Unix using GCC 4.0.1 and as Visual C++."
+http://www.cs.vu.nl/~ceriel/LLgen.html,LLgen parser generator,"- A tool for generating an efficient recursive descent parser from an ELL(1) grammar. The grammar may be ambiguous or more general than ELL(1): there are both static and dynamic facilities to resolve the ambiguities."
+http://sourceforge.net/projects/lrstar/,LRSTAR,"- LALR parser generator and lexer generator producing fast applications in C/C++."
+http://arxiv-web3.library.cornell.edu/abs/1501.02038,ModelCC Model-Driven Parser Generator,"- A model-based parser generator that decouples language specification from language processing, avoiding some of the problems caused by grammar-driven parser generators."
+http://sourceforge.net/projects/naivelangtools/,Naive Language Tools,"- NLT is a free, open-source C# lexer and parser suite containing GLR parser, enabling parsing of ambiguous grammars. Grammar can be defined directly in code or in separate file (lex/yacc-like) for included generator."
+http://www.cs.rit.edu/~ats/projects/oops3/doc/,Oops,"- An object-oriented parser generator implemented in Java."
+http://www.benhanson.net/parsertl.html,Parsertl: The Modular Parser Generator,"- A parser generator for C++. Currently only supporting SLR(1), it will eventually support LALR(1) and possibly IELR and GLR."
+http://www.dmitry-kazakov.de/match/match.htm,Pattern matching,"- Pattern matching in syntax analysis as influenced by SNOBOL4. The library distributed under the GNU Library General Public License provides for recursive patterns, various iterators and user-defined patterns along with bindings for Ada, K and R C/ANSI C/C++."
+http://www.polhode.com/pccts.html,PCCTS Resources,"- The primary source of maintenance releases for the PCCTS   compiler construction tool set. PCCTS is an LL(k) recursive descent parser generator with semantic predicates and backtracking.  It was developed by T.J. Parr."
+http://formalmethods.wikia.com/wiki/PRECC,PRECC - A PREttier Compiler-Compiler,"- An infinite-lookahead parser generator for context-dependent grammars which generates ANSI C code. Specification scripts are in very extended BNF with inherited and synthetic attributes allowed. Converter for yacc scripts is available as well as documentation and related papers."
+http://www.colm.net/open-source/ragel/,Ragel State Machine Compiler,"- Compiles FSMs from regular languages into executable C, C++, Objective-C or D code. The GPL'ed software can be used to create a parser for any language that is regular. Examples include parsing Unix mailbox files and general lexing tasks."
+http://www.dcs.rhbnc.ac.uk/research/languages/projects/rdp.html,The RDP parser generator,"- A parser generator which compiles attributed LL(1) grammars decorated with C semantic actions into recursive descent compilers."
+http://re2c.org/,re2c lexer generator,"- re2c is a tool for writing fast and flexible lexers. A re2c generated scanner is usually 2-3 times faster than a flex based scanner, and its input model is much more flexible."
+http://www.is.titech.ac.jp/~sassa/lab/rie-e.html,Rie,"- This compiler frontend generation system based on an  ECLR-attributed grammar is open source, written in C and may be regarded as an extension of Yacc/Bison."
+http://strategoxt.org/Sdf/SGLR,SGLR: a Scannerless Generalized LR parser,"- Interprets parse tables generated from an SDF2 syntax definition. Scannerless means that no scanner is used to tokenize the input stream; the parse table contains enough information for both the lexical and the context-free syntax. [Open source (LGPL)]"
+http://slkpg.1eko.com/,SLK Parser Generator,"- Produces compact and efficient LR(k) or LL(k) parsers in C, C++, C# and Java. Features include automated grammar transformations, clean EBNF syntax, optional backtracking, new LL(k) algorithms and an uncomplicated API. Under development for 25+ years, fully supported and actively being enhanced on a full-time basis."
+http://sourceforge.net/projects/soul.berlios/,Soul,"- An object oriented recursive descent parser generator framework implemented using C++ operator overloading techniques. It is inspired by Spirit but uses only a few template classes thus allowing more flexibility and fastest compilation time. [Open source, LGPL]"
+http://boost-spirit.com/home/,Spirit C++ Parser Framework,"- Set of C++ libraries for parsing and output generation implemented as Domain Specific Embedded Languages (DSEL) using Expression templates and Template Meta-Programming. Enable a target grammar to be written exclusively in C++. Inline grammar specifications can mix freely with other C++ code and the generative power of C++ templates allows for immediate executability."
+http://www.speculate.de/styx/,Styx,"- A scanner and lalr(1) parser generator. It has features like automatic derivation of depth grammar, production of the abstract syntax tree including its C interface and preserves full source information to facilitate source-source translation."
+http://www.sweetsoftware.co.nz/parser_overview.html,Sweet Parser,"- A C++ parser library that generates LALR(1) parsers from EBNF grammars."
+http://texttransformer.com/,TextTransformer,"- A parsergenerator, a simple c++ interpreter and an interactive debugger combined to a visual development environment, which analyzes, evaluates, converts texts immediately."
+http://cdsoft.fr/tpg/,Toy Parser Generator,"- TPG is a parser generator for Python. Given a simple attributed grammar, it produces a Recursive Descent Parser."
+http://www.musikwissenschaft.uni-mainz.de/~ag/tply/,Turbo Pascal Lex/Yacc,"- A compiler generator for Turbo Pascal and compatibles. The package contains two programs, TP Lex and Yacc, which are approximately compatible with the UNIX utilities Lex and Yacc, but are written in and produce code for the Turbo Pascal programming  language. Works with all recent flavours of Turbo/Borland Pascal, including Delphi and Free Pascal Compiler."
+http://www.intralogic.eu/,Visual BNF,"- An LR(1) parser by Intralogic for Backus-Naur form and generating parse tables DLL's in .NET assembly."
+http://visual-parse.software.informer.com/,Visual Parse++,"- The tool allows visual design of lexers and parsers for use in C, C++, Java, Delphi and Visual Basic applications under Windows 95/98/NT/2000, SunOS, Linux and with XML support  from version 4.0."
+http://vll.java.net/,VisualLangLab: A Visual Parser-Generator IDE,"- A visual parser-generator IDE for developing parsers without any textual grammar specification (BNF/EBNF/PEG), script or code."
+http://www.dmi.unisa.it/people/risi/www/vldesk/index.html,VLDesk (Visual Language Desk),"- A powerful tool for the automatic generation of Visual Programming Environments. Its current version entails the Visual Grammar Environment and Visual Programming Environment."
+http://world.std.com/~compres/,Yacc++(R) and the Language Objects Library,"- Object-oriented rewrite of Lex and Yacc for C++, with  automatic AST class generation, grammar inheritance, minimal state ELR(1) and technology. (Commercial package)"
+http://www.thinkage.ca/english/products/product-yay.shtml,YAY - Yet Another YACC,"- Closed-source, but free LALR(2) parser generator, accepts yacc input with some extensions."
+http://yoolex.sourceforge.net/,YooLex (Yet another Object-Oriented Lex),"- A Flex like scanner code generator, but it generates C++ scanner  classes that are re-entrant and compatible with the newer standard of  C++/STL.  Multiple scanner classes and instances can co-exist in a program  without tweaking of macros."
+url,name,description
+http://www.reddit.com/r/programming,Reddit: Programming,"- For discussion and news about computer programming. Stories with user comments."
+http://en.wikipedia.org/wiki/Computer_programming,Wikipedia - Computer Programming,"- Cover its history, provides an overview, describes modern programming and common procedures and problems, programming languages and programmers."
+https://www.python.org/,Python,"- Official site for the interpreted, interactive, object-oriented, extensible programming language. Includes news, documentation, free downloads, and developer information."
+http://python.meetup.com/,Python Meetup Day,"- A free service that coordinates local Python developers meeting in person, every month on the second Thursday of the month."
+http://www.acooke.org/comp-lang.html,An Introduction to Programming Languages,"- A neutral conceptual analysis for those who know one language and want to learn about others."
+http://lambda-the-ultimate.org/,Lambda the Ultimate,"- Programming Languages Weblog with news and discussion."
+http://en.wikipedia.org/wiki/Programming_language,Programming Language,"- Growing article, with links to many related topics. [Wikipedia]"
+http://www.webopedia.com/Programming/Programming_Languages,Webopedia: Programming Languages,"- Dictionary definitions for words in this category."
+http://c2plus.org/,C++ Builder,"- Інформація про середовище швидкої розробки (RAD), що випускається компанією Codegear. Приклади програм, довідник."
+http://kpi-open.org/,KPI-OPEN,"- Сайт студентської олімпіади з програмування ім. Лєбедєва С.О. та Глушкова В.М."
+http://pascal.org.ua/,Pascal,"- Онлайн посібник з мови програмування Pascal. Теорія та приклади."
+http://javacodeua.blogspot.com/,Simple Java 2.0 examples,"- Теорія та приклади програмування на мові Java."
+http://nub.com.ua/,Вивчаємо Flash та ActionScript разом,"- Блог. Уроки флеш-розробки та програмування, а також інформація щодо створення Flash-ігор."
+http://haskell.trygub.com/,Вивчить собі Хаскела,"- Сайт підручника функціональної мови Haskel."
+http://www.starbasic.net/,Макроси OpenOffice.org Basic,"- Онлайн-посібник з програмування мовою Basic та створення макросів для додатків пакету OpenOffice (LibreOffice)."
+https://sites.google.com/site/programuvanny/,Програмування,"- Уроки програмування на мові Паскаль."
+http://progfromdelphi.com/,Програмування на Delphi,"- Програмування для початківців на мові Delphi. Уроки та приклади програм."
+http://programming.in.ua/,Програмування по-українськи,"- Уроки програмування, веб-дизайну, комп'ютерної графіки."
+http://zend-frameworks.com/,Українська спільнота Zend Framework,"- Українське товариство підтримки php-фреймворка. Статті, відеоуроки."
+http://replace.org.ua/,Український форум програмістів,"- Обговорення програмування на різних мовах. Web-програмування, бази даних."
+http://itblogger.org.ua/,ІТ-Блогер,"- Сайт присвячений темам програмування з використанням qt framework, розробки програмного забезпечення для android, шифруванню інформації."
+http://www.pcbee.co.kr/,pcbee,"- 컴퓨터에 대한 모든것"
+url,name,description
+http://www.reddit.com/r/programming,Reddit: Programming,"- For discussion and news about computer programming. Stories with user comments."
+http://en.wikipedia.org/wiki/Computer_programming,Wikipedia - Computer Programming,"- Cover its history, provides an overview, describes modern programming and common procedures and problems, programming languages and programmers."
+https://www.python.org/,Python,"- Official site for the interpreted, interactive, object-oriented, extensible programming language. Includes news, documentation, free downloads, and developer information."
+http://python.meetup.com/,Python Meetup Day,"- A free service that coordinates local Python developers meeting in person, every month on the second Thursday of the month."
+http://bigprof.com/,BigProf Software,"- Contains PHP and C source code and resources for programmers. Offers tools for free download."
+http://people.csail.mit.edu/phw/Books/,Books by Patrick Henry Winston and Friends,"- Patrick H. Winston, (co-)author of ""On To Java, Third Edition"", ""On To Smalltalk"", ""On To C++"", ""On To C"", Artificial Intelligence, and Lisp presents his book."
+http://cleancode.sourceforge.net/,CleanCode,"- Guidelines for good software design/web page design (and examples of what not to do!), plus open-source tools and libraries for developers, focussing on Java, Perl, Javascript, CGI, and XML."
+http://www.codetoad.com/,Code Toad,"- Resource index for HTML, JavaScript, Java, ASP, Visual Basic, XML and DHTML code tutorials and scripts."
+http://www.netalive.org/codersguild/,Coder's Guild Mailing List Archive,"- Once a highly frequented programmer community, this archive contains four years of discussions about many programming problems for all languages."
+http://www.developerfusion.com/,Developer Fusion,"- Tutorials and source code for VB, ASP, PHP, XML, SQL Server, C#, C++ and .NET developers. Plus software reviews, developer jobs, blogs and a discussion forum."
+http://www.developer.com/,Developer.com,"- Provides link directory, technical articles, news, forum, and online books for Java, Linux, JavaScript, Perl, ActiveX, Visual Basic, HTML, DHMTL, XML, ColdFusion, C and C++."
+http://www.devx.com/,DevX,"- Source code, tips and tricks. Most source is free."
+http://freeitbookdirectory.atspace.org/,Directory of computer e-books,"- Links to programming related online e-books."
+http://www.dreamincode.net/,dream.in.code,"- Articles, tutorials, and forums for web developers and programmers."
+http://www.finditanswers.com/,FindITAnswers,"- Search engine optimized for software developers and other IT professionals. Focused on technical content difficult to find with other search tools and sites."
+http://anaturb.net/,For Programmers,"- Programming related resources, including manuals, code examples, tutorials for C/C++, Perl, MySQL, Bash, Sed/Awk, CSS, Javascript."
+http://www.freetechbooks.com/,FreeTechBooks,"- Free online computer books, documentations and references.  All which can be viewed, copied and printed at no charge for private use."
+http://www.functionx.com/,FunctionX,"- Programming resources, tutorilas and FAQs. Also geometric formulas.  Microsoft OS and program tutorials."
+http://gepardstudio.4ezi.com/,Gepard Studio,"- Sources (Pascal, Delphi, C, Java), games (Java,C)."
+http://www.ibm.com/developerworks/,IBM: developerWorks,"- An online collection of tutorials, sample code, standards, and other resources provided experts at IBM to assist software developers using open standards and cross-platform technologies."
+http://www.itmweb.com/,itmWEB,"- A collection of news, resources, and tools for software engineering, computer programming, and information technology management."
+http://www.krugle.com/,Krugle,"- Search engine for open source code, projects and technical pages."
+http://www.mediadev.com/,MediaDev,"- Recent news and events with specific market studies and resources for software developers. Localised for the UK, France, Spain, Italy and Germany."
+http://msdn.microsoft.com/,Microsoft Developer Network,"- Provides articles, whitepapers, interviews, and sample code for software developers using Microsoft products."
+http://www.mycplus.com/,Mycplus,"- Resources for C/C++, Visual C++ and C# .Net including tutorials and articles, free source codes, and open source utilities."
+http://www.planet-source-code.com/,Planet Source Code,"- Lets programmers submit code for review by other programmers; many source code samples to help educate beginners on many concepts; contests where programmers vote for the most efficient, useful code recently submitted."
+http://programmersheaven.com/,Programmers Heaven,"- A site for programmers with thousands of links and files to explore. Everything from Assembler to Visual Basic can be found here."
+http://raingod.com/raingod/resources/,Raingod,"- Resources for Java, Javascript, Perl, Python, Macintosh and Palm."
+http://sitereview.org/coding/,Sitereview.org,"- Programming site reviews posted by users."
+http://www.softpanorama.org/,Softpanorama,"- Information on Open Source software movement. Also provides a collection of links to Linux, programming languages, databases, and networking."
+http://www.source-code.biz/,source-code.biz,"- Source code and tips for Java, PHP, VB, VBScript and other programming languages."
+http://www.sourcecodesworld.com/,Sourcecodes World,"- Collection of computer projects, programs, source codes, tips and resources in C, C++, Java, Java Script, ASP, COBOL, Pascal."
+http://www.techbooksforfree.com/,TechBooksForFree.com,"- Free online programming and computer science books (Linux, Java, Microsoft tools, C/C++, Perl and Python)."
+http://www.undocprint.org/,Undocumented Printing,"- Various information for developers on windows printing."
+http://www.upload.co.il/,Upload.co.il,"- Provides developers with a place to upload, meet, share, exchange ideas and codes, build, improve, bug-fix, read, redistribute, and modify the source code of contributions submitted to the site."
+http://www.vyomworld.com/source/,Vyom Source Codes Directory,"- Contains categorised source codes in different programming languages - C, C++, Java, Pascal and COBOL."
+http://www.zenspider.com/index.html,Zen Spider Website,"- Information and tools for language writers and programmers."
+http://www.acooke.org/comp-lang.html,An Introduction to Programming Languages,"- A neutral conceptual analysis for those who know one language and want to learn about others."
+http://lambda-the-ultimate.org/,Lambda the Ultimate,"- Programming Languages Weblog with news and discussion."
+http://en.wikipedia.org/wiki/Programming_language,Programming Language,"- Growing article, with links to many related topics. [Wikipedia]"
+http://www.webopedia.com/Programming/Programming_Languages,Webopedia: Programming Languages,"- Dictionary definitions for words in this category."
+http://www.pythonware.com/daily/,eff-bot's Daily Python URL,"- Contains links to assorted resources from the Python universe, compiled by PythonWare."
+http://www.oinko.net/freepython/,Free Python and Zope Hosting Directory,"- A directory of free Python and Zope hosting providers, with reviews and ratings."
+http://oreilly.com/python/,O'Reilly Python Center,"- Features Python books, resources, news and articles."
+https://www.python.org/dev/,Python Developer's Guide,"- Resources for reporting bugs, accessing the Python source tree with CVS and taking part in the development of Python."
+http://win32com.goermezer.de/,Social Bug,"- Scripts, examples and news about Python programming for the Windows platform."
+http://www.faqs.org/faqs/software-eng/testing-faq/,Comp.software.testing Frequently Asked Questions,"- FAQ list for the Usenet newsgroup."
+http://www.compendiumdev.co.uk/,Compendium Developments Ltd.,"- Software testing and software quality essays, book reviews, and tools. Authors of Compendium-TA, a commercial modeling tool."
+http://extremetestingsphere.com/,Extreme Testing,"- Software QA and testing resources, testing methodologies and techniques complemented by a testing dictionary, interview questions, a quiz, book reviews, templates, test cases, grey box testing and recommendations."
+http://www.satisfice.com/,James Bach's Satisfice Site,"- Articles and tools around aspects of software testing and quality assurance.  Written and maintained by James Bach."
+http://www.logigear.com/,LogiGear Corporation,"- Providing software testing solutions including test tools, services and training, and a defect tracking solution. Offers articles by testing professionals, links to books and resources."
+http://www.professionaltester.com/,Professional Tester,"- An English-language bimonthly magazine aiming to provide practical help and inspiration to software testers worldwide. Offers online articles, information about testing companies and an event calendar."
+http://www.qthreads.com/,QThreads.com,"- News, articles and room for users blogs about software quality, testing, processes and CMM."
+http://www.qualitytree.com/,"Quality Tree, Inc.","- A collection of essays, articles, 'ruminations' and QA links."
+http://testavimas.blogspot.com/,Software Testing,"- Weblog on software testing, testing tools and resources."
+http://staqs.com/,STAQS - Software Testing and Quality Services,"- Resources and information for software testers, programmers, software engineers, and students interested in testing."
+http://www.ruleworks.co.uk/testguide/,The Test Management Guide,"- Offers an alphabetic listing of terms and information about risk management complemented by general information on test management, and methods, the V model, the Quality Gate process and the BS7925-2 standard for software component testing."
+http://www.testinggeek.com/,TestingGeek,"- A platform for sharing the knowledge of Software Testing, Testing Tools and Techniques, approaches and methodologies."
+http://www.acooke.org/comp-lang.html,An Introduction to Programming Languages,"- A neutral conceptual analysis for those who know one language and want to learn about others."
+http://lambda-the-ultimate.org/,Lambda the Ultimate,"- Programming Languages Weblog with news and discussion."
+http://en.wikipedia.org/wiki/Programming_language,Programming Language,"- Growing article, with links to many related topics. [Wikipedia]"
+http://www.webopedia.com/Programming/Programming_Languages,Webopedia: Programming Languages,"- Dictionary definitions for words in this category."
+url,name,description
+"http://www.pearsonhighered.com/educator/academic/product/0,,0130260363,00%2Ben-USS_01DBC.html",Core Python Programming,"- By Wesley J. Chun; Prentice Hall PTR, 2001, ISBN 0130260363. For experienced developers to improve extant skills; professional level examples. Starts by introducing syntax, objects, error handling, functions, classes, built-ins. [Prentice Hall]"
+http://www.brpreiss.com/books/opus7/html/book.html,Data Structures and Algorithms with Object-Oriented Design Patterns in Python,"- The primary goal of this book is to promote object-oriented design using Python and to illustrate the use of the emerging object-oriented design patterns."
+http://www.diveintopython.net/,Dive Into Python 3,"- By Mark Pilgrim, Guide to Python 3  and its differences from Python 2. Each chapter starts with a real code sample and explains it fully. Has a comprehensive appendix of all the syntactic and semantic changes in Python 3"
+http://rhodesmill.org/brandon/2011/foundations-of-python-network-programming/,Foundations of Python Network Programming,"- This book covers a wide range of topics. From raw TCP and UDP to encryption with TSL, and then to HTTP, SMTP, POP, IMAP, and ssh. It gives you a good understanding of each field and how to do everything on the network with Python."
+http://www.techbooksforfree.com/perlpython.shtml,Free Python books,"- Free Python books and tutorials."
+http://www.freetechbooks.com/python-f6.html,FreeTechBooks: Python Scripting Language,"- Annotated list of free online books on Python scripting language. Topics range from beginner to advanced."
+http://greenteapress.com/thinkpython/,How to Think Like a Computer Scientist: Learning with Python,"- By Allen B. Downey, Jeffrey Elkner, Chris Meyers; Green Tea Press, 2002, ISBN 0971677506. Teaches general principles of programming, via Python as subject language. Thorough, in-depth approach to many basic and intermediate programming topics. Full text online and downloads: HTML, PDF, PS, LaTeX. [Free, Green Tea Press]"
+http://www.network-theory.co.uk/python/intro/,An Introduction to Python,"- By Guido van Rossum, Fred L. Drake, Jr.; Network Theory Ltd., 2003, ISBN 0954161769. Printed edition of official tutorial, for v2.x, from Python.org. [Network Theory, online]"
+http://www.freenetpages.co.uk/hp/alan.gauld/,Learn to Program Using Python,"- Book by Alan Gauld with full text online. Introduction for those learning programming basics: terminology, concepts, methods to write code. Assumes no prior knowledge but basic computer skills."
+http://www.wiley.com/WileyCDA/WileyTitle/productCd-0471219754.html,Making Use of Python,"- By Rashi Gupta; John Wiley and Sons, 2002, ISBN 0471219754. Covers language basics, use for CGI scripting, GUI development, network programming; shows why it is one of more sophisticated of popular scripting languages. [Wiley]"
+http://hetland.org/writing/practical-python/,Practical Python,"- By Magnus Lie Hetland; Apress LP, 2002, ISBN 1590590066. Readable guide to ideas most vital to new users, from basics common to high level languages, to more specific aspects, to a series of 10 ever more complex programs. [Apress]"
+http://sysadminpy.com/,Pro Python System Administration,"- By Rytis Sileika, ISBN13: 978-1-4302-2605-5, Uses real-world system administration examples like manage devices with SNMP and SOAP, build a distributed monitoring system, manage web applications and parse complex log files, monitor and manage MySQL databases."
+http://www.qtrac.eu/py3book.html,Programming in Python 3 (Second Edition),"- A Complete Introduction to the Python 3."
+http://www.wiley.com/WileyCDA/WileyTitle/productCd-0764548077.html,Python 2.1 Bible,"- By Dave Brueck, Stephen Tanner; John Wiley and Sons, 2001, ISBN 0764548077. Full coverage, clear explanations, hands-on examples, full language reference; shows step by step how to use components, assemble them, form full-featured programs. [John Wiley and Sons]"
+https://www.packtpub.com/python-3-object-oriented-programming/book,Python 3 Object Oriented Programming,"- A step-by-step tutorial for OOP in Python 3, including discussion and examples of abstraction, encapsulation, information hiding, and raise, handle, define, and manipulate exceptions."
+http://www.network-theory.co.uk/python/language/,Python Language Reference Manual,"- By Guido van Rossum, Fred L. Drake, Jr.; Network Theory Ltd., 2003, ISBN 0954161785. Printed edition of official language reference, for v2.x, from Python.org, describes syntax, built-in datatypes. [Network Theory, online]"
+"http://www.pearsonhighered.com/educator/academic/product/0,,0130409561,00%2Ben-USS_01DBC.html",Python Programming Patterns,"- By Thomas W. Christopher; Prentice Hall PTR, 2002, ISBN 0130409561. Shows how to write large programs, introduces powerful design patterns that deliver high levels of robustness, scalability, reuse."
+http://www.informit.com/store/product.aspx?isbn=0201616165&redir=1,Python Programming with the Java Class Libraries: A Tutorial for Building Web and Enterprise Applications with Jython,"- By Richard Hightower; Addison-Wesley, 2002, 0201616165. Begins with Python basics, many exercises, interactive sessions. Shows programming novices concepts and practical methods. Shows programming experts Python's abilities and ways to interface with Java APIs. [publisher website]"
+"http://www.pearsonhighered.com/educator/academic/product/0,,0201748843,00%2Ben-USS_01DBC.html",Python: Visual QuickStart Guide,"- By Chris Fehily; Peachpit Press, 2002, ISBN 0201748843. Task-based, step-by-step visual reference guide, many screen shots, for courses in digital graphics; Web design, scripting, development; multimedia, page layout, office tools, operating systems. [Prentice Hall]"
+http://www.informit.com/store/product.aspx?isbn=0672317354,Sams Teach Yourself Python in 24 Hours,"- By Ivan Van Laningham; Sams Publishing, 2000, ISBN 0672317354. Split into 24 hands-on, 1 hour lessons; steps needed to learn topic: syntax, language features, OO design and programming, GUIs (Tkinter), system administration, CGI. [Sams Publishing]"
+http://gnosis.cx/TPiP/,Text Processing in Python,"- By David Mertz; Addison Wesley. Book in progress, full text, ASCII format. Asks for feedback. [author website, Gnosis Software, Inc.]"
+http://www.informit.com/store/product.aspx?isbn=0130211192,XML Processing with Python,"- By Sean McGrath; Prentice Hall PTR, 2000, ISBN 0130211192, has CD-ROM. Methods to build XML applications fast, Python tutorial, DOM and SAX, new Pyxie open source XML processing library. [Prentice Hall PTR]"
+url,name,description
+http://bigprof.com/,BigProf Software,"- Contains PHP and C source code and resources for programmers. Offers tools for free download."
+http://people.csail.mit.edu/phw/Books/,Books by Patrick Henry Winston and Friends,"- Patrick H. Winston, (co-)author of ""On To Java, Third Edition"", ""On To Smalltalk"", ""On To C++"", ""On To C"", Artificial Intelligence, and Lisp presents his book."
+http://cleancode.sourceforge.net/,CleanCode,"- Guidelines for good software design/web page design (and examples of what not to do!), plus open-source tools and libraries for developers, focussing on Java, Perl, Javascript, CGI, and XML."
+http://www.codetoad.com/,Code Toad,"- Resource index for HTML, JavaScript, Java, ASP, Visual Basic, XML and DHTML code tutorials and scripts."
+http://www.netalive.org/codersguild/,Coder's Guild Mailing List Archive,"- Once a highly frequented programmer community, this archive contains four years of discussions about many programming problems for all languages."
+http://www.developerfusion.com/,Developer Fusion,"- Tutorials and source code for VB, ASP, PHP, XML, SQL Server, C#, C++ and .NET developers. Plus software reviews, developer jobs, blogs and a discussion forum."
+http://www.developer.com/,Developer.com,"- Provides link directory, technical articles, news, forum, and online books for Java, Linux, JavaScript, Perl, ActiveX, Visual Basic, HTML, DHMTL, XML, ColdFusion, C and C++."
+http://www.devx.com/,DevX,"- Source code, tips and tricks. Most source is free."
+http://freeitbookdirectory.atspace.org/,Directory of computer e-books,"- Links to programming related online e-books."
+http://www.dreamincode.net/,dream.in.code,"- Articles, tutorials, and forums for web developers and programmers."
+http://www.finditanswers.com/,FindITAnswers,"- Search engine optimized for software developers and other IT professionals. Focused on technical content difficult to find with other search tools and sites."
+http://anaturb.net/,For Programmers,"- Programming related resources, including manuals, code examples, tutorials for C/C++, Perl, MySQL, Bash, Sed/Awk, CSS, Javascript."
+http://www.freetechbooks.com/,FreeTechBooks,"- Free online computer books, documentations and references.  All which can be viewed, copied and printed at no charge for private use."
+http://www.functionx.com/,FunctionX,"- Programming resources, tutorilas and FAQs. Also geometric formulas.  Microsoft OS and program tutorials."
+http://gepardstudio.4ezi.com/,Gepard Studio,"- Sources (Pascal, Delphi, C, Java), games (Java,C)."
+http://www.ibm.com/developerworks/,IBM: developerWorks,"- An online collection of tutorials, sample code, standards, and other resources provided experts at IBM to assist software developers using open standards and cross-platform technologies."
+http://www.itmweb.com/,itmWEB,"- A collection of news, resources, and tools for software engineering, computer programming, and information technology management."
+http://www.krugle.com/,Krugle,"- Search engine for open source code, projects and technical pages."
+http://www.mediadev.com/,MediaDev,"- Recent news and events with specific market studies and resources for software developers. Localised for the UK, France, Spain, Italy and Germany."
+http://msdn.microsoft.com/,Microsoft Developer Network,"- Provides articles, whitepapers, interviews, and sample code for software developers using Microsoft products."
+http://www.mycplus.com/,Mycplus,"- Resources for C/C++, Visual C++ and C# .Net including tutorials and articles, free source codes, and open source utilities."
+http://www.planet-source-code.com/,Planet Source Code,"- Lets programmers submit code for review by other programmers; many source code samples to help educate beginners on many concepts; contests where programmers vote for the most efficient, useful code recently submitted."
+http://programmersheaven.com/,Programmers Heaven,"- A site for programmers with thousands of links and files to explore. Everything from Assembler to Visual Basic can be found here."
+http://raingod.com/raingod/resources/,Raingod,"- Resources for Java, Javascript, Perl, Python, Macintosh and Palm."
+http://sitereview.org/coding/,Sitereview.org,"- Programming site reviews posted by users."
+http://www.softpanorama.org/,Softpanorama,"- Information on Open Source software movement. Also provides a collection of links to Linux, programming languages, databases, and networking."
+http://www.source-code.biz/,source-code.biz,"- Source code and tips for Java, PHP, VB, VBScript and other programming languages."
+http://www.sourcecodesworld.com/,Sourcecodes World,"- Collection of computer projects, programs, source codes, tips and resources in C, C++, Java, Java Script, ASP, COBOL, Pascal."
+http://www.techbooksforfree.com/,TechBooksForFree.com,"- Free online programming and computer science books (Linux, Java, Microsoft tools, C/C++, Perl and Python)."
+http://www.undocprint.org/,Undocumented Printing,"- Various information for developers on windows printing."
+http://www.upload.co.il/,Upload.co.il,"- Provides developers with a place to upload, meet, share, exchange ideas and codes, build, improve, bug-fix, read, redistribute, and modify the source code of contributions submitted to the site."
+http://www.vyomworld.com/source/,Vyom Source Codes Directory,"- Contains categorised source codes in different programming languages - C, C++, Java, Pascal and COBOL."
+http://www.zenspider.com/index.html,Zen Spider Website,"- Information and tools for language writers and programmers."
+url,name,description
+https://www.python.org/,Python,"- Official site for the interpreted, interactive, object-oriented, extensible programming language. Includes news, documentation, free downloads, and developer information."
+http://python.meetup.com/,Python Meetup Day,"- A free service that coordinates local Python developers meeting in person, every month on the second Thursday of the month."
+http://www.reddit.com/r/programming,Reddit: Programming,"- For discussion and news about computer programming. Stories with user comments."
+http://en.wikipedia.org/wiki/Computer_programming,Wikipedia - Computer Programming,"- Cover its history, provides an overview, describes modern programming and common procedures and problems, programming languages and programmers."
+http://www.acooke.org/comp-lang.html,An Introduction to Programming Languages,"- A neutral conceptual analysis for those who know one language and want to learn about others."
+http://lambda-the-ultimate.org/,Lambda the Ultimate,"- Programming Languages Weblog with news and discussion."
+http://en.wikipedia.org/wiki/Programming_language,Programming Language,"- Growing article, with links to many related topics. [Wikipedia]"
+http://www.webopedia.com/Programming/Programming_Languages,Webopedia: Programming Languages,"- Dictionary definitions for words in this category."
+http://www.pythonware.com/daily/,eff-bot's Daily Python URL,"- Contains links to assorted resources from the Python universe, compiled by PythonWare."
+http://www.oinko.net/freepython/,Free Python and Zope Hosting Directory,"- A directory of free Python and Zope hosting providers, with reviews and ratings."
+http://oreilly.com/python/,O'Reilly Python Center,"- Features Python books, resources, news and articles."
+https://www.python.org/dev/,Python Developer's Guide,"- Resources for reporting bugs, accessing the Python source tree with CVS and taking part in the development of Python."
+http://win32com.goermezer.de/,Social Bug,"- Scripts, examples and news about Python programming for the Windows platform."
+http://www.staycanada.ca/,Canada Accommodations,"- A directory of hotels, motels and bed and breakfasts in Canada."
+http://www.canadaextendedstay.com/,Canada Extended Stay,"- Directory of furnished apartments and hotel accommodations. Includes property information, owners section and contact form."
+http://www.lodgesresorts.com/,Canada Lodges and Resorts Vacations,"- Includes guide to accommodations and resorts and outfitters for fly-in fishing, ecotourism, and outdoor adventures. Includes pet welcome facilities listings, health resorts and spas."
+http://www.canvisit.com/,CanVisit,"- A directory of bed and breakfast accommodations, inns, lodges and rental cottages across the country."
+http://www.furnishedresidences.com/,Furnished Residences .com,"- A directory of corporate housing companies and furnished apartments in Canada."
+http://www.goski.ca/,GoSki.ca,"- Information about Canadian ski destinations, accommodations and resorts."
+http://www.heavenlyhideaways.com/,Heavenly Hideaways,"- A directory of selected romantic getaway accommodations across Canada."
+http://www.premieresuites.com/,Premiere Executive Suites,"- Offers furnished apartments close to business and commercial districts in centres across Canada, with daily, weekly or monthly rates."
+http://www.stay-in-canada.com/,Stay-In-Canada.com,"- A multilingual accommodation directory of Canada, with listings of places to stay in centres from coast to coast."
+http://www.staycanada.com/,StayCanada.com,"- Directory of bed and breakfasts, inns and lodges throughout Canada."
+http://www.thehungersite.com/,The Hunger Site,"- Make free donations of food to give to feed hungry people while viewing a world hunger map."
+http://www.dmoz.org/,ODP - Open Directory Project,"- ""Help build the most comprehensive human-reviewed directory of the web""."
+http://www.mem.md/,Mişcarea Ecologistă din Moldova,"- Organizaţie neguvernamentală, nonprofit, creată pe principiul liberei asocieri a cetăţenilor moldoveni. Oferă biografia şi referinţe despre statut, structură, proiecte şi organizaţii teritoriale, alături de detalii referitoare la publicaţiile şi evenimentele de actualitate."
+http://moldovabirds.blogspot.com/,Păsări din Republica Moldova,"- Prezintă specii de păsări din această ţară, cu imagini originale fotografiate de autor."
+http://www.rec.md/,REC-Moldova,"- Centrul Regional de Mediu - Moldova este o organizaţie independentă, necomercială, apolitică cu caracter internaţional instituită pentru a contribui la soluţionarea problemelor de mediu în Republica Moldova şi ţările vecine."
+url,name,description
+http://bigprof.com/,BigProf Software,"- Contains PHP and C source code and resources for programmers. Offers tools for free download."
+http://www.acooke.org/comp-lang.html,An Introduction to Programming Languages,"- A neutral conceptual analysis for those who know one language and want to learn about others."
+http://www.reddit.com/r/programming,Reddit: Programming,"- For discussion and news about computer programming. Stories with user comments."
+https://www.python.org/,Python,"- Official site for the interpreted, interactive, object-oriented, extensible programming language. Includes news, documentation, free downloads, and developer information."
+http://people.csail.mit.edu/phw/Books/,Books by Patrick Henry Winston and Friends,"- Patrick H. Winston, (co-)author of ""On To Java, Third Edition"", ""On To Smalltalk"", ""On To C++"", ""On To C"", Artificial Intelligence, and Lisp presents his book."
+http://cleancode.sourceforge.net/,CleanCode,"- Guidelines for good software design/web page design (and examples of what not to do!), plus open-source tools and libraries for developers, focussing on Java, Perl, Javascript, CGI, and XML."
+http://www.codetoad.com/,Code Toad,"- Resource index for HTML, JavaScript, Java, ASP, Visual Basic, XML and DHTML code tutorials and scripts."
+http://www.netalive.org/codersguild/,Coder's Guild Mailing List Archive,"- Once a highly frequented programmer community, this archive contains four years of discussions about many programming problems for all languages."
+http://www.developerfusion.com/,Developer Fusion,"- Tutorials and source code for VB, ASP, PHP, XML, SQL Server, C#, C++ and .NET developers. Plus software reviews, developer jobs, blogs and a discussion forum."
+http://www.developer.com/,Developer.com,"- Provides link directory, technical articles, news, forum, and online books for Java, Linux, JavaScript, Perl, ActiveX, Visual Basic, HTML, DHMTL, XML, ColdFusion, C and C++."
+http://www.devx.com/,DevX,"- Source code, tips and tricks. Most source is free."
+http://freeitbookdirectory.atspace.org/,Directory of computer e-books,"- Links to programming related online e-books."
+http://www.dreamincode.net/,dream.in.code,"- Articles, tutorials, and forums for web developers and programmers."
+http://www.finditanswers.com/,FindITAnswers,"- Search engine optimized for software developers and other IT professionals. Focused on technical content difficult to find with other search tools and sites."
+http://anaturb.net/,For Programmers,"- Programming related resources, including manuals, code examples, tutorials for C/C++, Perl, MySQL, Bash, Sed/Awk, CSS, Javascript."
+http://www.freetechbooks.com/,FreeTechBooks,"- Free online computer books, documentations and references.  All which can be viewed, copied and printed at no charge for private use."
+http://www.functionx.com/,FunctionX,"- Programming resources, tutorilas and FAQs. Also geometric formulas.  Microsoft OS and program tutorials."
+http://gepardstudio.4ezi.com/,Gepard Studio,"- Sources (Pascal, Delphi, C, Java), games (Java,C)."
+http://www.ibm.com/developerworks/,IBM: developerWorks,"- An online collection of tutorials, sample code, standards, and other resources provided experts at IBM to assist software developers using open standards and cross-platform technologies."
+http://www.itmweb.com/,itmWEB,"- A collection of news, resources, and tools for software engineering, computer programming, and information technology management."
+http://www.krugle.com/,Krugle,"- Search engine for open source code, projects and technical pages."
+http://www.mediadev.com/,MediaDev,"- Recent news and events with specific market studies and resources for software developers. Localised for the UK, France, Spain, Italy and Germany."
+http://msdn.microsoft.com/,Microsoft Developer Network,"- Provides articles, whitepapers, interviews, and sample code for software developers using Microsoft products."
+http://www.mycplus.com/,Mycplus,"- Resources for C/C++, Visual C++ and C# .Net including tutorials and articles, free source codes, and open source utilities."
+http://www.planet-source-code.com/,Planet Source Code,"- Lets programmers submit code for review by other programmers; many source code samples to help educate beginners on many concepts; contests where programmers vote for the most efficient, useful code recently submitted."
+http://programmersheaven.com/,Programmers Heaven,"- A site for programmers with thousands of links and files to explore. Everything from Assembler to Visual Basic can be found here."
+http://raingod.com/raingod/resources/,Raingod,"- Resources for Java, Javascript, Perl, Python, Macintosh and Palm."
+http://lambda-the-ultimate.org/,Lambda the Ultimate,"- Programming Languages Weblog with news and discussion."
+http://en.wikipedia.org/wiki/Programming_language,Programming Language,"- Growing article, with links to many related topics. [Wikipedia]"
+http://www.webopedia.com/Programming/Programming_Languages,Webopedia: Programming Languages,"- Dictionary definitions for words in this category."
+http://en.wikipedia.org/wiki/Computer_programming,Wikipedia - Computer Programming,"- Cover its history, provides an overview, describes modern programming and common procedures and problems, programming languages and programmers."
+http://python.meetup.com/,Python Meetup Day,"- A free service that coordinates local Python developers meeting in person, every month on the second Thursday of the month."
+http://sitereview.org/coding/,Sitereview.org,"- Programming site reviews posted by users."
+http://www.softpanorama.org/,Softpanorama,"- Information on Open Source software movement. Also provides a collection of links to Linux, programming languages, databases, and networking."
+http://www.source-code.biz/,source-code.biz,"- Source code and tips for Java, PHP, VB, VBScript and other programming languages."
+http://www.sourcecodesworld.com/,Sourcecodes World,"- Collection of computer projects, programs, source codes, tips and resources in C, C++, Java, Java Script, ASP, COBOL, Pascal."
+http://www.techbooksforfree.com/,TechBooksForFree.com,"- Free online programming and computer science books (Linux, Java, Microsoft tools, C/C++, Perl and Python)."
+http://www.undocprint.org/,Undocumented Printing,"- Various information for developers on windows printing."
+http://www.upload.co.il/,Upload.co.il,"- Provides developers with a place to upload, meet, share, exchange ideas and codes, build, improve, bug-fix, read, redistribute, and modify the source code of contributions submitted to the site."
+http://www.vyomworld.com/source/,Vyom Source Codes Directory,"- Contains categorised source codes in different programming languages - C, C++, Java, Pascal and COBOL."
+http://www.zenspider.com/index.html,Zen Spider Website,"- Information and tools for language writers and programmers."
+http://www.pythonware.com/daily/,eff-bot's Daily Python URL,"- Contains links to assorted resources from the Python universe, compiled by PythonWare."
+http://www.oinko.net/freepython/,Free Python and Zope Hosting Directory,"- A directory of free Python and Zope hosting providers, with reviews and ratings."
+http://oreilly.com/python/,O'Reilly Python Center,"- Features Python books, resources, news and articles."
+https://www.python.org/dev/,Python Developer's Guide,"- Resources for reporting bugs, accessing the Python source tree with CVS and taking part in the development of Python."
+http://win32com.goermezer.de/,Social Bug,"- Scripts, examples and news about Python programming for the Windows platform."
+http://lambda-the-ultimate.org/node/673,The Fortress Language Spec v0.618,"- Weblog entry and discussion about this older version of the spec."
+http://en.wikipedia.org/wiki/Fortress_(programming_language),Fortress Programming Language,"- Growing article, with links to many related topics, references. Wikipedia."
+http://it.slashdot.org/article.pl?sid=05/04/30/1749205,Fortress: The Successor to Fortran?,"- Short summary, large discussion. [Slashdot.org]"
+url,name,description
+http://bigprof.com/,BigProf Software,"- Contains PHP and C source code and resources for programmers. Offers tools for free download."
+https://www.python.org/,Python,"- Official site for the interpreted, interactive, object-oriented, extensible programming language. Includes news, documentation, free downloads, and developer information."
+http://www.acooke.org/comp-lang.html,An Introduction to Programming Languages,"- A neutral conceptual analysis for those who know one language and want to learn about others."
+http://people.csail.mit.edu/phw/Books/,Books by Patrick Henry Winston and Friends,"- Patrick H. Winston, (co-)author of ""On To Java, Third Edition"", ""On To Smalltalk"", ""On To C++"", ""On To C"", Artificial Intelligence, and Lisp presents his book."
+http://cleancode.sourceforge.net/,CleanCode,"- Guidelines for good software design/web page design (and examples of what not to do!), plus open-source tools and libraries for developers, focussing on Java, Perl, Javascript, CGI, and XML."
+http://www.codetoad.com/,Code Toad,"- Resource index for HTML, JavaScript, Java, ASP, Visual Basic, XML and DHTML code tutorials and scripts."
+http://www.netalive.org/codersguild/,Coder's Guild Mailing List Archive,"- Once a highly frequented programmer community, this archive contains four years of discussions about many programming problems for all languages."
+http://www.developerfusion.com/,Developer Fusion,"- Tutorials and source code for VB, ASP, PHP, XML, SQL Server, C#, C++ and .NET developers. Plus software reviews, developer jobs, blogs and a discussion forum."
+http://www.developer.com/,Developer.com,"- Provides link directory, technical articles, news, forum, and online books for Java, Linux, JavaScript, Perl, ActiveX, Visual Basic, HTML, DHMTL, XML, ColdFusion, C and C++."
+http://www.devx.com/,DevX,"- Source code, tips and tricks. Most source is free."
+http://freeitbookdirectory.atspace.org/,Directory of computer e-books,"- Links to programming related online e-books."
+http://www.dreamincode.net/,dream.in.code,"- Articles, tutorials, and forums for web developers and programmers."
+http://www.finditanswers.com/,FindITAnswers,"- Search engine optimized for software developers and other IT professionals. Focused on technical content difficult to find with other search tools and sites."
+http://anaturb.net/,For Programmers,"- Programming related resources, including manuals, code examples, tutorials for C/C++, Perl, MySQL, Bash, Sed/Awk, CSS, Javascript."
+http://www.freetechbooks.com/,FreeTechBooks,"- Free online computer books, documentations and references.  All which can be viewed, copied and printed at no charge for private use."
+http://www.functionx.com/,FunctionX,"- Programming resources, tutorilas and FAQs. Also geometric formulas.  Microsoft OS and program tutorials."
+http://gepardstudio.4ezi.com/,Gepard Studio,"- Sources (Pascal, Delphi, C, Java), games (Java,C)."
+http://www.ibm.com/developerworks/,IBM: developerWorks,"- An online collection of tutorials, sample code, standards, and other resources provided experts at IBM to assist software developers using open standards and cross-platform technologies."
+http://www.itmweb.com/,itmWEB,"- A collection of news, resources, and tools for software engineering, computer programming, and information technology management."
+http://www.krugle.com/,Krugle,"- Search engine for open source code, projects and technical pages."
+http://www.mediadev.com/,MediaDev,"- Recent news and events with specific market studies and resources for software developers. Localised for the UK, France, Spain, Italy and Germany."
+http://msdn.microsoft.com/,Microsoft Developer Network,"- Provides articles, whitepapers, interviews, and sample code for software developers using Microsoft products."
+http://www.mycplus.com/,Mycplus,"- Resources for C/C++, Visual C++ and C# .Net including tutorials and articles, free source codes, and open source utilities."
+http://www.planet-source-code.com/,Planet Source Code,"- Lets programmers submit code for review by other programmers; many source code samples to help educate beginners on many concepts; contests where programmers vote for the most efficient, useful code recently submitted."
+http://programmersheaven.com/,Programmers Heaven,"- A site for programmers with thousands of links and files to explore. Everything from Assembler to Visual Basic can be found here."
+http://raingod.com/raingod/resources/,Raingod,"- Resources for Java, Javascript, Perl, Python, Macintosh and Palm."
+http://sitereview.org/coding/,Sitereview.org,"- Programming site reviews posted by users."
+http://www.softpanorama.org/,Softpanorama,"- Information on Open Source software movement. Also provides a collection of links to Linux, programming languages, databases, and networking."
+http://www.source-code.biz/,source-code.biz,"- Source code and tips for Java, PHP, VB, VBScript and other programming languages."
+http://www.sourcecodesworld.com/,Sourcecodes World,"- Collection of computer projects, programs, source codes, tips and resources in C, C++, Java, Java Script, ASP, COBOL, Pascal."
+http://www.techbooksforfree.com/,TechBooksForFree.com,"- Free online programming and computer science books (Linux, Java, Microsoft tools, C/C++, Perl and Python)."
+http://python.meetup.com/,Python Meetup Day,"- A free service that coordinates local Python developers meeting in person, every month on the second Thursday of the month."
+http://lambda-the-ultimate.org/,Lambda the Ultimate,"- Programming Languages Weblog with news and discussion."
+http://en.wikipedia.org/wiki/Programming_language,Programming Language,"- Growing article, with links to many related topics. [Wikipedia]"
+http://www.webopedia.com/Programming/Programming_Languages,Webopedia: Programming Languages,"- Dictionary definitions for words in this category."
+http://www.undocprint.org/,Undocumented Printing,"- Various information for developers on windows printing."
+http://www.upload.co.il/,Upload.co.il,"- Provides developers with a place to upload, meet, share, exchange ideas and codes, build, improve, bug-fix, read, redistribute, and modify the source code of contributions submitted to the site."
+http://www.vyomworld.com/source/,Vyom Source Codes Directory,"- Contains categorised source codes in different programming languages - C, C++, Java, Pascal and COBOL."
+http://www.zenspider.com/index.html,Zen Spider Website,"- Information and tools for language writers and programmers."
+http://www.reddit.com/r/programming,Reddit: Programming,"- For discussion and news about computer programming. Stories with user comments."
+http://en.wikipedia.org/wiki/Computer_programming,Wikipedia - Computer Programming,"- Cover its history, provides an overview, describes modern programming and common procedures and problems, programming languages and programmers."
+http://www.abc.net/,ABC.net,"- Web directory based on ODP RDF data dumps, with rearranged front page. There is also a metasearch tool with options to search the web, the directory, images or shopping."
+http://www.alexa.com/,Alexa,"- Provides a search feature and a directory from the ODP. Directory listings can be ordered by popularity, user rating or alphabetically, and there are links to Alexa's information on each site."
+http://directory.amfibi.com/,Amfibi Directory,"- Web directory with thousands of categories and millions of websites provided by the Open Directory and enhanced by Amfibi."
+http://www.cool4kids.com/,Cool4Kids.com,"- Using the ODP Kids and Teens directory."
+http://thecowcorral.master.com/,The Cow Corral Search Engine,"- A demonstration from master.com of the search and directory it offers to webmasters, using the Open Directory data."
+http://www.neuber.com/delphi/,Delphi Search Engine Directory,"- A Delphi search engine for the Web and newsgroups and directory drawn from ODP Computers: Programming: Languages: Delphi."
+http://directory.domaintools.com/,DomainTools Directory,"- Data was last updated from DMOZ on September 13, 2011."
+http://www.dominion-web.com/,Dominion Web,"- Uses ODP data to demonstrate their product: DWdirectory."
+http://dsl-service-providers.com/,DSL Service Providers,"- Directory by state with map and list, combining data from the ODP."
+http://www.gosearchfor.com/,GoSearchFor.com,"- Uses ODP directory with Thumbshots."
+http://ebookpublisherz.instantdirectory.net/directory.cgi,Instant Directory,"- ODP content powered by Instant Content."
+http://jcsearch.com/,JasmineCorp Directory,"- Directory using ODP data with added advertising."
+http://www.labour-party.org.uk/,Labour-Party.org.uk,"- An unofficial site about the UK's Labour Party, with the links directory based on an old version of Regional/Europe/United_Kingdom/Society_and_Culture/Politics/Parties/Labour/ category. RDF dump."
+http://www.libdems.co.uk/,Libdems.co.uk,"- An unofficial site from Political News about the UK's Liberal Democrats, with the links directory based on an old version of the relevant ODP category. RDF dump."
+http://www.the-linx.com/,The Linx,"- A global web directory using DMOZ 2.0 data, thumbnails and Google PageRank."
+http://listoflists.com/,List of Lists Internet Directory,"- ODP site on Linux with Postgres SQL. Uses minimal display format. RDF dump."
+http://okuka.master.com/,Master.com portal,"- A demonstration from master.com of the search and directory it offers to webmasters, using the Open Directory data."
+http://navinka.com/,Navinka,"- Directory using ODP data."
+http://netdirectory.instantdirectory.net/,Net Directory,"- A scraped copy of the Open Directory."
+http://www.religionexplorer.com/,Religion Explorer,"- Provides a copy of the Open Directory categories on religion, with added site previews by Thumshots. Also uses Aspseek technology to provide a search engine restricted to sites listed in those categories."
+http://www.sciencedaily.com/,ScienceDaily Magazine,"- News about science, technology, and health. Archived stories are filed into ODP categories alongside the links."
+http://zerodirectory.com/,Zero Directory,"- A copy of the ODP presented in tabular form, with added advertising."
+url,name,description
+https://www.python.org/,Python,"- Official site for the interpreted, interactive, object-oriented, extensible programming language. Includes news, documentation, free downloads, and developer information."
+http://bigprof.com/,BigProf Software,"- Contains PHP and C source code and resources for programmers. Offers tools for free download."
+http://www.acooke.org/comp-lang.html,An Introduction to Programming Languages,"- A neutral conceptual analysis for those who know one language and want to learn about others."
+http://python.meetup.com/,Python Meetup Day,"- A free service that coordinates local Python developers meeting in person, every month on the second Thursday of the month."
+http://people.csail.mit.edu/phw/Books/,Books by Patrick Henry Winston and Friends,"- Patrick H. Winston, (co-)author of ""On To Java, Third Edition"", ""On To Smalltalk"", ""On To C++"", ""On To C"", Artificial Intelligence, and Lisp presents his book."
+http://cleancode.sourceforge.net/,CleanCode,"- Guidelines for good software design/web page design (and examples of what not to do!), plus open-source tools and libraries for developers, focussing on Java, Perl, Javascript, CGI, and XML."
+http://www.codetoad.com/,Code Toad,"- Resource index for HTML, JavaScript, Java, ASP, Visual Basic, XML and DHTML code tutorials and scripts."
+http://www.netalive.org/codersguild/,Coder's Guild Mailing List Archive,"- Once a highly frequented programmer community, this archive contains four years of discussions about many programming problems for all languages."
+http://www.developerfusion.com/,Developer Fusion,"- Tutorials and source code for VB, ASP, PHP, XML, SQL Server, C#, C++ and .NET developers. Plus software reviews, developer jobs, blogs and a discussion forum."
+http://www.developer.com/,Developer.com,"- Provides link directory, technical articles, news, forum, and online books for Java, Linux, JavaScript, Perl, ActiveX, Visual Basic, HTML, DHMTL, XML, ColdFusion, C and C++."
+http://www.devx.com/,DevX,"- Source code, tips and tricks. Most source is free."
+http://freeitbookdirectory.atspace.org/,Directory of computer e-books,"- Links to programming related online e-books."
+http://www.dreamincode.net/,dream.in.code,"- Articles, tutorials, and forums for web developers and programmers."
+http://www.finditanswers.com/,FindITAnswers,"- Search engine optimized for software developers and other IT professionals. Focused on technical content difficult to find with other search tools and sites."
+http://anaturb.net/,For Programmers,"- Programming related resources, including manuals, code examples, tutorials for C/C++, Perl, MySQL, Bash, Sed/Awk, CSS, Javascript."
+http://www.freetechbooks.com/,FreeTechBooks,"- Free online computer books, documentations and references.  All which can be viewed, copied and printed at no charge for private use."
+http://www.functionx.com/,FunctionX,"- Programming resources, tutorilas and FAQs. Also geometric formulas.  Microsoft OS and program tutorials."
+http://gepardstudio.4ezi.com/,Gepard Studio,"- Sources (Pascal, Delphi, C, Java), games (Java,C)."
+http://www.ibm.com/developerworks/,IBM: developerWorks,"- An online collection of tutorials, sample code, standards, and other resources provided experts at IBM to assist software developers using open standards and cross-platform technologies."
+http://www.itmweb.com/,itmWEB,"- A collection of news, resources, and tools for software engineering, computer programming, and information technology management."
+http://www.krugle.com/,Krugle,"- Search engine for open source code, projects and technical pages."
+http://www.mediadev.com/,MediaDev,"- Recent news and events with specific market studies and resources for software developers. Localised for the UK, France, Spain, Italy and Germany."
+http://msdn.microsoft.com/,Microsoft Developer Network,"- Provides articles, whitepapers, interviews, and sample code for software developers using Microsoft products."
+http://www.mycplus.com/,Mycplus,"- Resources for C/C++, Visual C++ and C# .Net including tutorials and articles, free source codes, and open source utilities."
+http://www.planet-source-code.com/,Planet Source Code,"- Lets programmers submit code for review by other programmers; many source code samples to help educate beginners on many concepts; contests where programmers vote for the most efficient, useful code recently submitted."
+http://programmersheaven.com/,Programmers Heaven,"- A site for programmers with thousands of links and files to explore. Everything from Assembler to Visual Basic can be found here."
+http://raingod.com/raingod/resources/,Raingod,"- Resources for Java, Javascript, Perl, Python, Macintosh and Palm."
+http://sitereview.org/coding/,Sitereview.org,"- Programming site reviews posted by users."
+http://www.softpanorama.org/,Softpanorama,"- Information on Open Source software movement. Also provides a collection of links to Linux, programming languages, databases, and networking."
+http://www.source-code.biz/,source-code.biz,"- Source code and tips for Java, PHP, VB, VBScript and other programming languages."
+http://www.sourcecodesworld.com/,Sourcecodes World,"- Collection of computer projects, programs, source codes, tips and resources in C, C++, Java, Java Script, ASP, COBOL, Pascal."
+http://www.techbooksforfree.com/,TechBooksForFree.com,"- Free online programming and computer science books (Linux, Java, Microsoft tools, C/C++, Perl and Python)."
+http://www.undocprint.org/,Undocumented Printing,"- Various information for developers on windows printing."
+http://www.upload.co.il/,Upload.co.il,"- Provides developers with a place to upload, meet, share, exchange ideas and codes, build, improve, bug-fix, read, redistribute, and modify the source code of contributions submitted to the site."
+http://www.vyomworld.com/source/,Vyom Source Codes Directory,"- Contains categorised source codes in different programming languages - C, C++, Java, Pascal and COBOL."
+http://www.zenspider.com/index.html,Zen Spider Website,"- Information and tools for language writers and programmers."
+http://lambda-the-ultimate.org/,Lambda the Ultimate,"- Programming Languages Weblog with news and discussion."
+http://en.wikipedia.org/wiki/Programming_language,Programming Language,"- Growing article, with links to many related topics. [Wikipedia]"
+http://www.webopedia.com/Programming/Programming_Languages,Webopedia: Programming Languages,"- Dictionary definitions for words in this category."
+http://www.reddit.com/r/programming,Reddit: Programming,"- For discussion and news about computer programming. Stories with user comments."
+http://en.wikipedia.org/wiki/Computer_programming,Wikipedia - Computer Programming,"- Cover its history, provides an overview, describes modern programming and common procedures and problems, programming languages and programmers."
+http://www.kurditgroup.org/,Gruba Kurd It,"- Zanyariyên teknolojîk, dakişandin û nûçe [soranî]."
+http://groups.yahoo.com/group/kurddata2006/,Kurddata2006,"- Grûba Yahoo ya kurdî."
+http://www.kurdistanet.dk/,Kurdistanet.dk,"- Bernameyan kurdî û nûçeyên, barkirin hene."
+http://www.angelfire.com/de3/siy/indexakurdi.htm,Siyabend,"- Malpereke kurdî, çandî hunerî û her wiha animasyonên kurdî ji bo webmasteran."
+http://www.webchin.org/,Webchin,"- Malper bi giştî ser dakişandin û programçêkirinê ye, wergerê bi zimanê kurdî re çêdike."
+http://www.ardit.lv/,Ardit Solutions,"- Sniedz IT ārpakalpojumus, veido un uztur mājas lapas."
+http://boot.lv/,boot.lv,"- Jaunumi un testi par tehniku - datortehnika, mobilie telefoni, auto."
+http://www.cervon.net/,Cervon Latvia,"- Uzņēmums apkalpo datortehniku, sniedz web izstrādes, uzturēšanas un reklāmas pakalpojumus."
+http://www.crcb2b.lv/,CRC,"- XEROX un Canon tehnikas tirdzniecība un garantijas, pēcgarantijas pilna servisa nodrošināšana."
+https://www.crmc.lv/,CRM Consulting,"- IT konsultāciju uzņēmums specializējas CRM risinājumu izplatīšanā, ieviešanā un uzturēšanā. Sertificēts SAGE biznesa partneris."
+http://www.cube.lv/,CUBE,"- Cube piedāvā pilna cikla visdažādāko web risinājumu izstrādi."
+http://datubazes.wordpress.com/,Datubāzes,"- Informācija par datu bāzu vadības sistēmām un funkcionalitāti, SQL valodu un ar to saistīto tēmatiku."
+http://datuve.lv/,Datuve,"- Tehnoloģiju jaunumu portāls."
+http://www.deac.eu/,DEAC,"- Uzņēmums piedāvā ASP, resursu, sistēmu un procesu nomu, Web uzturēšanu."
+http://www.times.lv/,Digital Times,"- Viss par datortehniku un ar to saistītām lietām - tirgus apskati, jaunākie produkti, autoru viedokļi. Plašs programmu katalogs."
+http://www.digitalguru.lv/,Digitalguru,"- Mācību centrs, kur iegūt zināšanas un prasmes darbam ar grafiskajām un biroja programmām. Datorgrafikas kursi, semināri un konsultācijas."
+http://www.dzin.lv/,Dzin dizains,"- E-risinājumi uzņēmumiem, mājas lapu izstrāde un konsultācijas. Informācija par klientiem, darbiem un pakalpojumiem."
+http://www.edat.lv/,EDAT,"- Datorsistēmu apkalpošana, IT risinājumi, serviss un ārpakalpojumi, datortehnikas apkalpošana."
+http://eira.eu/,Eira,"- Ekonomikas un informācijas risinājumu aģentūra piedāvā web lapu izstrādi, programmēšanu un IT konsultācijas. Darbu portfolio."
+http://www.elapa.lv/,eLapa,"- Mājaslapu dizains un izstrāde. Paraugi un realizētie projekti."
+http://www.elvabaltic.lv/,Elva Baltic,"- Grāmatvedības un biznesa vadības risinājumi. Informācija par produktiem, klientiem un partneriem."
+http://ema.lv/,Ema,"- Mājaslapu izstrāde un web uzturēšanas serviss."
+http://www.gigatop.lv/,Gigatop,"- Mājaslapu un interneta veikalu izstrāde, adaptēšana uz atvērtā koda programmatūras bāzes."
+http://www.grals.lv/,Grāls,"- Datorprogrammas grāmatvedībai. Informācija par sistēmas iespējām, servisu un cenām, demonstrācijas programmas."
+http://www.hortus.lv/,Hortus Digital,"- Web risinājumi, IT infrastruktūru projektēšana, sistēmu apkalpošana un resursu noma. Apraksts un jaunumi."
+http://www.hp.lv/,HP mājas lapa,"- Hewlett-Packard mājas lapa"
+http://www.webmarketing.lv/,Interneta mārketings,"- Blogs par Interneta mārketingu. Teorija, prakse, noderīgi un interesanti projekti"
+http://ithouse.lv/,IT House,"- Uzņēmums izstrādā mājas lapas un web aplikācijas."
+http://www.ivs.lv/,IVS Sistēmas,"- Uzņēmums projektē un izstrādā grāmatvedības, uzskaites un Interneta lietojumu programmas."
+http://www.ma-1.lv/,MA1 Datori,"- Datoru ražošana, noma, IT konsultācijas, datorsistēmu instalēšanas un uzturēšanas pakalpojumi. Informācija par datoriem, pakalpojumiem un tirdzniecības vietām."
+http://www.microsoft.lv/,Microsoft Latvija,"- Microsoft Baltic, Microsoft Latvija"
+http://ms.lv/,Multisistēma,"- Datortehnikas un aksesuāru online veikals. Informācija par piegādi un līzinga iespējām."
+https://www.mykoob.lv/,Mykoob,"- Informācijas sistēma automatizē informacijas apmaiņu starp skolu, audzēkņiem, pasniedzējiem un vecākiem."
+http://www.netberries.lv/,Netberries,"- Mājas lapu izveide uz TYPO3 satura vadības sistēmas bāzes. Dizains, migrācija, uzstādīšana un serviss."
+http://www.next.lv/,Next,"- Tehnoloģiju portāls."
+http://www.proweb.lv/,Pro Web,"- Mājas lapu izstrāde un uzturēšana."
+http://www.ridemo.lv/,R and I Demo,"- Multimediju uzņēmums specializējas elektronisko datormultimediju izgatavošanā, WEB risinājumu izveidē un prezentāciju sagatavošanā."
+http://www.riforce.lv/,Riforfce,"- Datortehnikas attālināta uzturēšana, datorprogrammu audita pakalpojumi."
+http://www.manshostings.lv/,Rigalink,"- Hostinga un mājas lapas izveidošanas pakalpojumi. Cenas, tehniskie dati un kontaktinformācija."
+http://www.robotika.lv/,Robotika,"- Robotikas vortāls. Informācija par robotiem, robotikas pasākumiem, fotogrāfijas un video."
+http://www.robotikasklubs.lv/,Robotikas klubs,"- Veicina zinātnisko un pētniecisko darbību RTU mākslīgā intelekta, elektronikas, elektrotehnikas, mehānikas un radniecīgos laukos. Informācija par robotiem un projektiem."
+http://forums.mansrobots.lv/,Robotu putekļusūcēju lietotāju forums,"- iRobot robotu - putekļusūcēju lietotāju forums, foto un video, robotu pirkšana un cenas, lietošanas un servisa ieteikumi, informācija par robotikas sacensībām un robotiem."
+http://guru.mansrobots.lv/,Sadzīves Roboti,"- Informācija par sadzīves robotiem - putekļu sūcējiem un grīdas mazgātājiem."
+http://www.semti-kamols.lv/,Semantiskais tīmeklis,"- Informācija par projektu, publikācijas."
+http://www.telia.lv/,Telia Latvija,"- Sniedz Interneta un datu komunikācijas pakalpojumus. Pakalpojumu apraksts un cenas."
+http://twitter.com/irobotlv,Twitter - iRobot LV,"- IRobot sadzīves robotu oficiālā mikroblogošanas vietne."
+http://www.bestpc.lv/,Tīkls Net,"- Datoru Internetveikals. Katalogs, akcijas, piegādes un līzinga noteikumi."
+http://www.unitree.lv/,Unitree,"- Piedāvā sistēmas integrācijas pakalpojumus un tīklu projektus. Informācija par produktiem, uzņēmumu un klientiem."
+http://www.vianets.lv/,Vianets,"- Web dizaina studija. Klientu saraksts un kontaktinformācija."
+http://web.hc.lv/,Vortāls tīmekļa veidotājiem,"- Mājaslapu veidošanas un mārketinga aspekti, no idejas līdz gandarījumam."
+http://www.zalktis.lv/,Zalktis,"- Grāmatvedības datorprogramma. Pilnas funkcionalitātes demonstrācijas versija un rokasgrāmata."
+http://zparks.lv/,Zparks,"- Portāls par mobilajiem sakariem, digitālo foto, audio un video tehniku. Jaunumi, apskati un testi."
